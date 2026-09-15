@@ -109,5 +109,6 @@ write('robots.txt','User-agent: *\nAllow: /\nSitemap: '+site+'/sitemap.xml\n');
 let urls=['/','/services/','/contact/','/service-areas/'];
 for(const st of states){urls.push('/'+stateSlug[st]+'/'); for(const l of locations.filter(x=>x.state===st)){urls.push('/'+l.state_slug+'/'+l.slug+'/');}}
 for(const s of services) urls.push('/services/'+s.slug+'/');
-write('sitemap.xml','<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+[...new Set(urls)].map(u=>'<url><loc>'+site+u+'</loc></url>').join('')+'</urlset>');
+const uniqueUrls=[...new Set(urls)];
+write('sitemap.xml','<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+uniqueUrls.map(u=>'  <url><loc>'+site+u+'</loc></url>').join('\n')+'\n</urlset>');
 console.log(`Built ${locations.length} unique location pages plus ${services.length} service pages.`);

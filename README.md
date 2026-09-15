@@ -19,3 +19,6 @@ The contact form submits to `/api/enquiry` through a Cloudflare Pages Function. 
 - `RESEND_API_KEY` — encrypted secret containing the Resend API key.
 - `ENQUIRY_TO` — optional recipient email; defaults to `css.serviceinfo@gmail.com`.
 - `ENQUIRY_FROM` — optional sender; defaults to `CSS Service Solution <onboarding@resend.dev>`. For production, verify `completeservicesolution.online` in Resend and use a sender on that domain.
+
+### Sitemap fix
+The build explicitly publishes `sitemap.xml` as `application/xml` and `robots.txt` as `text/plain` to improve crawler compatibility.

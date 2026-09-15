@@ -6,9 +6,24 @@ Build command: npm run build
 Build output directory: dist
 Production branch: main
 
-After first deployment, add custom domain:
+After deployment, add custom domain:
 completeservicesolution.online
 
-The site is static and uses no server-side runtime.
+Website features:
+- Modern responsive homepage
+- Static better service cards for all 10 services
+- Pink Get a Free Quote CTA and quote form box
+- Server-side enquiry function at /api/enquiry
+- 355 unique location pages + 10 service pages
+- robots.txt and sitemap.xml generated during build
 
-IMPORTANT: Do not publish secrets/API keys in the repository.
+ENQUIRY EMAIL SETUP:
+The enquiry form does not open the visitor's Gmail/Outlook. It submits to the Cloudflare Pages Function.
+Set these as Cloudflare Pages production environment variables/secrets:
+- RESEND_API_KEY = your Resend API key (keep secret)
+- ENQUIRY_TO = css.serviceinfo@gmail.com (optional; this is the default)
+- ENQUIRY_FROM = a verified sender such as CSS Service Solution <noreply@your-verified-domain>
+
+IMPORTANT:
+Do not publish API keys/secrets in GitHub.
+If the Resend sender domain has not been verified yet, configure that before testing live email delivery.

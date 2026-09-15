@@ -1,0 +1,14 @@
+CSS SERVICE SOLUTION - CLOUDFLARE SETUP
+
+Repository: dksingh2012/css-service-solution
+Project name: css-service-solution
+Build command: npm run build
+Build output directory: dist
+Production branch: main
+
+After first deployment, add custom domain:
+completeservicesolution.online
+
+The site is static and uses no server-side runtime.
+
+IMPORTANT: Do not publish secrets/API keys in the repository.

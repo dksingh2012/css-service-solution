@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Pest Control Service",
+    "slug": "pest-control",
+    "desc": "Professional pest control solutions for homes, offices and commercial properties."
+  },
+  {
+    "name": "Termite Control Service",
+    "slug": "termite-control",
+    "desc": "Termite control and prevention solutions for residential and commercial properties."
+  },
+  {
+    "name": "Cockroach Control Service",
+    "slug": "cockroach-control",
+    "desc": "Cockroach control solutions for homes, offices, restaurants and commercial spaces."
+  },
+  {
+    "name": "Bed Bug Control Service",
+    "slug": "bed-bug-control",
+    "desc": "Bed bug treatment solutions for homes, hotels, hostels and other premises."
+  },
+  {
+    "name": "Mosquito Control Service",
+    "slug": "mosquito-control",
+    "desc": "Mosquito control solutions for residential and commercial premises."
+  },
+  {
+    "name": "Rodent Control Service",
+    "slug": "rodent-control",
+    "desc": "Rodent and rat control solutions for homes, offices, warehouses and businesses."
+  },
+  {
+    "name": "Commercial Pest Control Service",
+    "slug": "commercial-pest-control",
+    "desc": "Pest management solutions for offices, shops, warehouses and commercial premises."
+  },
+  {
+    "name": "Residential Pest Control Service",
+    "slug": "residential-pest-control",
+    "desc": "Residential pest control solutions for houses, apartments and family homes."
+  },
+  {
+    "name": "Fumigation Service",
+    "slug": "fumigation",
+    "desc": "Fumigation services for applicable commercial, storage and industrial premises."
+  },
+  {
+    "name": "Pre-Construction Termite Treatment Service",
+    "slug": "pre-construction-termite-treatment",
+    "desc": "Pre-construction termite treatment solutions for new residential and commercial construction."
+  }
+]

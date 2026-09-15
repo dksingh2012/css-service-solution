@@ -1,0 +1,3218 @@
+[
+  {
+    "state": "Uttar Pradesh",
+    "branch": "AGRA",
+    "slug": "agra",
+    "addresses": [
+      "CSS ,2 ND FLOOR, PADMA BUSINESS PARK PLOT NO. INS, SECTOR 12 A AVAS SIKANDRA YOJANA ROAD Agra UTTAR PRADESH 282001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "AKBARPUR",
+    "slug": "akbarpur",
+    "addresses": [
+      "CSS ,WARD NO-16 , KANHAIYA NAGAR, NEAR V.C.MOTORS, AKBARPUR UTTAR PRADESH- 209101"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "ALIGARH",
+    "slug": "aligarh",
+    "addresses": [
+      "CSS ,2ND FLOOR, H22, VIKRAM COLONY, RAGHAV PLAZA QUURSHI FORM ROAD NOT APPLICABLE Aligarh UTTAR PRADESH 202001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "ALLAHABAD - LUCKNOW",
+    "slug": "allahabad-lucknow",
+    "addresses": [
+      "CSS ,GROUND FLOOR, 124 / C 4 T.B. SAPRU MARG, CIVIL LINES LOK SEWA AYOG ALLAHABAD UTTAR PRADESH 211001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "AMAUSI",
+    "slug": "amausi",
+    "addresses": [
+      "CSS ,1ST FLOOR SONKADI PLAZA, SEC-B PLOT NO-105 LDA COLONY KANPUR ROAD AMAUSI UTTAR PRADESH 226012"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "AMBEDKARNAGAR",
+    "slug": "ambedkarnagar",
+    "addresses": [
+      "CSS ,327 - First Floor, Nai Sadak Shajadpur Road ,Thasil Akbarpur Shajadpur Road ,Thasil Akbarpur AMBEDKARNAGAR UTTAR PRADESH 224122"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "ANANDNAGAR",
+    "slug": "anandnagar",
+    "addresses": [
+      "CSS ,1st Floor, Plot no 2064 ,Main Road ,Anand nagar,Uttar Pradesh, 273155"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "ANPARA",
+    "slug": "anpara",
+    "addresses": [
+      "CSS ,FIRST FLOOR, GAURAV COMPLEX, AURI MOD, BINDA ROAD, ANPARA AURI MOD SONEBHADRA UTTAR PRADESH 231225"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "ATRAULIA",
+    "slug": "atraulia",
+    "addresses": [
+      "CSS ,Ground floor, khanpur Fateh / beside Roadways Terminal, on main Fzb Azm Road Atraulia Beside Roadways terminal ATRAULIA UTTAR PRADESH 223223"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "AURAIYA",
+    "slug": "auraiya",
+    "addresses": [
+      "CSS ,1ST FLOOR,22/670 BANARSI DAS PHAPHUND ROAD AURAIYA UTTAR PRADESH 206122"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "AZAMGARH - LCK",
+    "slug": "azamgarh-lck",
+    "addresses": [
+      "CSS ,First Floor, Above Deep Motors Railway Station Road ,Mohalla Safruddinpur ,Azamgarh Above Deep Motors AZAMGARH - LCK UTTAR PRADESH 276001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "BABATPUR",
+    "slug": "babatpur",
+    "addresses": [
+      "CSS ,GROUND FLOOR LUCKNOW VARANASI ROAD, PINDRA NATIONAL INTER COLLEGE VARANASI UTTAR PRADESH 221006"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "BABRALA",
+    "slug": "babrala",
+    "addresses": [
+      "CSS ,1ST FLOOR, NEAR H.P. GAS GODAM, BABRALA, ABOVE MAHINDAR TRACTOR AGENCY, CHANDOSHI ROAD NOT APPLICABLE Sambhal UTTAR PRADESH 243751"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "BADAUN",
+    "slug": "badaun",
+    "addresses": [
+      "CSS ,FIRST FLOOR, SINGH RAJ COMPLEX, BUDAUN MATHURA ROAD NOT APPLICABLE Badaun UTTAR PRADESH 243601"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "BAH",
+    "slug": "bah",
+    "addresses": [
+      "CSS ,Ground floor FATEHABAD Road Near CSS Tractor Dealer BAH UTTAR PRADESH 283104"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "BAHRAICH",
+    "slug": "bahraich",
+    "addresses": [
+      "CSS ,1st Floor,Dighiya Chauraha ,Above Landmark & V Mart Showroom Dighiya Chauraha Near V Mart Showroom BAHRAICH UTTAR PRADESH 271801"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "BAKSHI KA TALAB",
+    "slug": "bakshi-ka-talab",
+    "addresses": [
+      "CSS ,RAMENDRA NATH TOWER,RAMENDRA VIHAR COLONY, NEAR BY OF BARODA & ALLAHABAD SITAPUR ROAD BAKSHI KA TALAB UTTAR PRADESH 226201"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "BALLIA (VARANASI)",
+    "slug": "ballia-varanasi",
+    "addresses": [
+      "CSS ,1st Floor Jai Ram Bhawan,beside ,oppsite petrol pamp,near NCC Tiraha,BALLIA (VARANASI) UTTAR PRADESH 277001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "BALRAMPUR (UP)",
+    "slug": "balrampur-up",
+    "addresses": [
+      "CSS ,Ground floor, Nai Bazar,Tulsipur Road Near Kalithan BALRAMPUR BALRAMPUR (UP) UTTAR PRADESH 271201"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "BANDA (ALLAHABAD)",
+    "slug": "banda-allahabad",
+    "addresses": [
+      "CSS ,FIRST FLOOR TINDWARI ROAD, ,KALUKUAN KALUKUNWA BANDA UTTAR PRADESH 210001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "BANGERMAU",
+    "slug": "bangermau",
+    "addresses": [
+      "CSS ,GROUND FLOOR HARDOI UNNAO MAIN ROAD NEAR HARYALI PETROL PUMP UNNAO UTTAR PRADESH 241501"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "BARABANKI - U.P",
+    "slug": "barabanki-u-p",
+    "addresses": [
+      "CSS ,Sumerganj tower,opposite Gandhi Ashram,Near RTO office , Gokul Nagar,Lucknow road, Barabanki-225001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "BARAUT",
+    "slug": "baraut",
+    "addresses": [
+      "CSS ,GROUND Floor 12/457, Delhi Saharanpur Road, Chhaprauli Chungi, Baghpat, Baraut 250611"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "BAREILLY - LUCKNOW",
+    "slug": "bareilly-lucknow",
+    "addresses": [
+      "CSS ,1st Floor, EUPHORIA Building, Philibhit By Pass Road, Near Big Honda, Bareilly UP ,243001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "BARHALGANJ",
+    "slug": "barhalganj",
+    "addresses": [
+      "CSS ,1st Floor, College Triaha, Road Road, Beside Indian Over Seas Building, Barhalganj Beside Indian Over Seas Building BARHALGANJ UTTAR PRADESH 273402"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "BASTI - LCK",
+    "slug": "basti-lck",
+    "addresses": [
+      "CSS ,1 St Floor ,Malviya Road,Pikaura Shivgulam, BASTI - LCK UTTAR PRADESH 272002"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "BELTHARA ROAD",
+    "slug": "belthara-road",
+    "addresses": [
+      "CSS ,1st Floor, Fateh Bahadur Singh Complex Madhuban Road / Near , Belthara, Ballia Near BELTHARA ROAD UTTAR PRADESH 221715"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "BHADOHI",
+    "slug": "bhadohi",
+    "addresses": [
+      "CSS ,SECOND FLOOR, HALL NO. 91, NIRYAT BHAWAN (BIDA) JALAPUR STATION ROAD, BIDA SANT RAVIDAS NAGAR UTTAR PRADESH 221401"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "BIJNOR",
+    "slug": "bijnor",
+    "addresses": [
+      "CSS ,2ND FLOOR, AKASH PLAZA CIVIL LINES ABOVE Bijnor UTTAR PRADESH 246701"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "BIKAPUR",
+    "slug": "bikapur",
+    "addresses": [
+      "CSS ,1st Floor, Khata no 59, Charitra Complex, Station Road Station Road, Opp Bharti Inter College, Station Road, Bikapur, Faizabad, 224204"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "BINDKI",
+    "slug": "bindki",
+    "addresses": [
+      "CSS ,GROUND FLOOR OPP VED GUEST HOUSE LALOLI ROAD FATEHPUR UTTAR PRADESH 212635"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "BULANDSHAHR",
+    "slug": "bulandshahr",
+    "addresses": [
+      "CSS ,1ST FLOOR, NIRMAL PLAZA KOTHIYAL NO-949/950 KALA AAM, CEVIL LINE BULANDSHAR OPP-VISSHAL CINEMA Bulandsahar UTTAR PRADESH 203001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "CHAKIA",
+    "slug": "chakia",
+    "addresses": [
+      "CSS ,GROUND FLOOR MUGHALSARAI-CHAKIA ROAD CRPF CAMP, CHAKIA CHANDAULI UTTAR PRADESH 232103"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "CHANDAULI",
+    "slug": "chandauli",
+    "addresses": [
+      "CSS ,SECOND FLOOR G T ROAD,MUGHALSARAI,CHANDAULI, OPPOSITE RAYMOND SHOWROOM CHANDAULI UTTAR PRADESH 232101"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "CHATTA",
+    "slug": "chatta",
+    "addresses": [
+      "CSS ,Ground floor NH-2 MATHURA ROAD Near Hotel Marry Inn Mathura UTTAR PRADESH 281401"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "CHAUBEYPUR",
+    "slug": "chaubeypur",
+    "addresses": [
+      "CSS ,FIRST FLOOR VARANASI-GHAZIPUR ROAD HANUMAN MANDIA, CHAUBEYPUR VARANASI UTTAR PRADESH 221104"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "CHAURICHAURA",
+    "slug": "chaurichaura",
+    "addresses": [
+      "CSS ,1st Floor, House no 86 KA, Chaura Chaura,Main Gorakhpur - Deoria High Way,Near Bus Stand, Bhopa Bazar, Chauri Chaura Bhopa Bazar, Chauri Chaura, Uttar Pradesh, 273201"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "CHHIBRAMAU",
+    "slug": "chhibramau",
+    "addresses": [
+      "CSS ,GROUND FLOOR GROUND FLOOR,DIXITAN, CHHIBRAMAU DISTRICT- KANNUAJ, UP 0 KANNAUJ UTTAR PRADESH 209721"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "CHOPAN",
+    "slug": "chopan",
+    "addresses": [
+      "CSS ,FIRST FLOOR VARANASI - SHAKTINAGAR ROAD, PREET NAGAR,CHOPAN NEAR BHARAT BENZ SONEBHADRA UTTAR PRADESH 231205"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "DEOBAND",
+    "slug": "deoband",
+    "addresses": [
+      "CSS ,2ND FLOOR , MANGLOR ROAD, NEAR MANGLOR POLICE CHOWKI DEOBAND SAHARANPUR UTTAR PRADESH 247554"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "DEORIA (UP)",
+    "slug": "deoria-up",
+    "addresses": [
+      "CSS ,First Floor, 438/2 Ward No.21,Plot No.312/1,1St Floor,Ball Sadar Road (Bas Deoria),Kotwali Road,Deoria Near DEORIA (UP) UTTAR PRADESH 274001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "DIBAI",
+    "slug": "dibai",
+    "addresses": [
+      "CSS ,1st Floor, Kashra No. 316, Prakash Complex, Railway Road, Opp. Kotwali Dibai, Dibai, Bulandshahar, Uttar Pradesh – 202393"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "DUMARIAGANJ",
+    "slug": "dumariaganj",
+    "addresses": [
+      "CSS ,Ground floor777 Nath Tower, Ground Floor Ward No 4, Subhash nagar, Dumariaganj - Itwa Road DUMARIAGANJ UTTAR PRADESH 272189"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "ETAH",
+    "slug": "etah",
+    "addresses": [
+      "CSS ,1ST FLOOR, H.NO.26, ABOVE TVS AGENCY ARUNA NAGAR, G.T ROAD NOT APPLICABLE Etah UTTAR PRADESH 207001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "ETAWAH - LCK",
+    "slug": "etawah-lck",
+    "addresses": [
+      "CSS ,1ST FLOOR, MUMTA PRESS BHAWAN OPP FARUKKHABAD RAILWAY CROSSING 0 ETAWAH UTTAR PRADESH 206001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "FAIZABAD - LUCKNOW",
+    "slug": "faizabad-lucknow",
+    "addresses": [
+      "CSS ,1ST floor,Devkali Bypass,Devkali Road Oppsite Shashi Gas Service Near Sardar Petrol Pump FAIZABAD - LUCKNOW UTTAR PRADESH 224001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "FARUKKHABAD",
+    "slug": "farukkhabad",
+    "addresses": [
+      "CSS ,GROUND FLOOR, 7/289, OPP. HINDUSTAN HOTEL ROADWAYS BUS STAND, FARUKKHABAD UTTAR PRADESH 209625"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "FATEHABAD",
+    "slug": "fatehabad",
+    "addresses": [
+      "CSS ,1ST FLOOR BUILDING SITUATED AT IOB CAMPUS AGRA ROAD NEAR BLOCK OFFICE Agra UTTAR PRADESH 283104"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "FATEHPUR - KANPUR (UP)",
+    "slug": "fatehpur-kanpur-up",
+    "addresses": [
+      "CSS ,TAMBESHWAR NAGAR NEAR DAK BANGALA G.T.ROAD FATEHPUR UTTAR PRADESH 212601"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "FIROZABAD",
+    "slug": "firozabad",
+    "addresses": [
+      "CSS ,1ST FLOOR, 1/346 ABOVE, INDIAN SUHAG NAGAR NOT APPLICABLE Firozabad UTTAR PRADESH 283203"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "FUTAHIYA",
+    "slug": "futahiya",
+    "addresses": [
+      "CSS ,1ST FLOOR,549, PHUTTIYA CHAURAHA,TANDA ROAD MAHRIPUR, BASTI-272001, UTTAR PRADESH"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "GAJROLA",
+    "slug": "gajrola",
+    "addresses": [
+      "CSS ,GROUND FLOOR -BUILDING AMROHA ROAD OPP Amroha UTTAR PRADESH 244235"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "GANGOH",
+    "slug": "gangoh",
+    "addresses": [
+      "CSS ,MAIN ROAD NEAR CHOUDHARY CINEMA SAHARANPUR GANGOH UTTARAKHAND 247351"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "GAURIGANJ",
+    "slug": "gauriganj",
+    "addresses": [
+      "CSS ,UPPER GROUND FLOOR, GAURIGANJ – JAMO ROAD, NEAR COLLECTRATE OFFICE, GAURIGANJ, DIST. AMETHI (U.P.) - 227409"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "GHAZIPUR-UP",
+    "slug": "ghazipur-up",
+    "addresses": [
+      "CSS ,FIRST FLOOR, PLOT NO. 115 C GHAZIPUR - VARANASI ROAD NEAR SAPA KARYALAYA GHAZIPUR UTTAR PRADESH 233001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "GIDA",
+    "slug": "gida",
+    "addresses": [
+      "CSS ,1st FloorNausarh Chauraha Bharat Petrol Pump campus, Near Rapti Bridge, Gida Inside Bharat Petrol Pump campus, Near Rapti Bridge GIDA UTTAR PRADESH 273016"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "GONDA (UP)",
+    "slug": "gonda-up",
+    "addresses": [
+      "CSS ,Ground Floor, Shukla Complex opp Gonda Oil Petrol Pump, Lucknow Road, Ambedkar Crossing Opp Gonda Oil Petrol Pump GONDA (UP) UTTAR PRADESH 271001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "GOPIGANJ",
+    "slug": "gopiganj",
+    "addresses": [
+      "CSS ,FIRST FLOOR, ALLHABAD - VARANASI ROAD, PADAV, GOPIGANJ SANT RAVIDAS NAGAR UTTAR PRADESH 221303"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "GORAKHPUR (UP)",
+    "slug": "gorakhpur-up",
+    "addresses": [
+      "CSS ,First Floor Mohalla Shahpur,Medical College Road,Beside Radhika Complex, GORAKHPUR (UP) UTTAR PRADESH 273009"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "GORAKHPUR-CV",
+    "slug": "gorakhpur-cv",
+    "addresses": [
+      "CSS ,1st floor, Sun Tires, Transport Nagar, Faizabad – Gorakhpur Road, Near Police Chauki, Gorakhpur, GORAKHPUR-CV UTTAR PRADESH 273006"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "HAIDERGARH",
+    "slug": "haidergarh",
+    "addresses": [
+      "CSS ,TIWARI COMPLEX, GATA NO. 597, OPP. AGARWAL MARKET,NEAR B SULTANPUR ROAD BARA I UTTAR PRADESH 227301"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "HAMIRPUR UP",
+    "slug": "hamirpur-up",
+    "addresses": [
+      "CSS ,FIRST FLOOR NEAR VIDHYA MANDIR INTER COLLEGE, VIVEK NAGAR ABOVE LIC OFFICE, HAMIRPUR UTTAR PRADESH 210301"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "HANDIA",
+    "slug": "handia",
+    "addresses": [
+      "CSS ,GROUND FLOOR,212,BLOCK-B ALLAHABAD-VARANASI ROAD L.B.S.AYURVEDIC COLLEGE, HANDIA ALLAHABAD UTTAR PRADESH 221503"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "HARDOI-UP",
+    "slug": "hardoi-up",
+    "addresses": [
+      "CSS ,2ND FLOOR TIWARI COMPLEX GANGA NAGAR COLONY NEAR ITI CIRCULAR ROAD HARDOI UTTAR PRADESH 241001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "HATA",
+    "slug": "hata",
+    "addresses": [
+      "CSS ,1st Floor, Ward no 09, Haritola, Baghnath Hata, KUSHINAGAR GORAKHPUR ROAD IN FRONT OF INDIAN OIL PETROL PUMP, HATA Uttar Pradesh,PIN: 274203"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "HATHRAS",
+    "slug": "hathras",
+    "addresses": [
+      "CSS ,2 ND FLOOR GANESH TOWER ALIGARH ROAD NEAR PWD GUEST HOUSE Hathras UTTAR PRADESH 204101"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "JAGDISHPUR",
+    "slug": "jagdishpur",
+    "addresses": [
+      "CSS ,1st floor,kaif complex,Lko to Vns Road,Nh56, JAGDISHPUR UTTAR PRADESH 227809"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "JALALABAD",
+    "slug": "jalalabad",
+    "addresses": [
+      "CSS ,GR FLOOR ,YAKURPUR,NEW HERO AGENCY, & KARGIN PETROL PUMP FARUKHABAD ROAD, SAHAJHANPUR, JALALABAD UP- 242221"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "JALALPUR",
+    "slug": "jalalpur",
+    "addresses": [
+      "CSS ,ground floor, beside Verma automobiles authorized service center hero motocorp ltd, near ram janki mandir, malipur road, Jalalpur, Ambedkar Nagar, Uttar Pradesh - 224149"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "JALESHAR",
+    "slug": "jaleshar",
+    "addresses": [
+      "CSS ,New Branches New Branches New Branches Etah UTTAR PRADESH 0"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "JHANSI - LCK",
+    "slug": "jhansi-lck",
+    "addresses": [
+      "CSS ,1ST FLOOR, ABOVE ANDHARA , GWALIOR ROAD CIVIL LINE GWALIOR ROAD JHANSI UTTAR PRADESH 284001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "JOUNPUR-(UP/MP)",
+    "slug": "jounpur-up-mp",
+    "addresses": [
+      "CSS ,SECOND FLOOR, CITY TOWER, PLOT NO. 5&8 LUCKNOW-VARANASI ROAD NEAR MAHIR MANDIR JAUNPUR UTTAR PRADESH 222002"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "KALPI",
+    "slug": "kalpi",
+    "addresses": [
+      "CSS ,First Floor House no 2 Ram Chabutra Kalpi 0 ORAI UTTAR PRADESH 285204"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "KANNAUJ",
+    "slug": "kannauj",
+    "addresses": [
+      "CSS ,ABOVE ASHA MOTORS,1ST FLOOR ASHOK NAGAR KANNAUJ UTTAR PRADESH 209726"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "KANPUR",
+    "slug": "kanpur",
+    "addresses": [
+      "CSS ,5TH FLOOR KAN CHAMBERS, PLOT NO. 1/113, CIVIL LINE ROAD KANPUR UTTAR PRADESH 208001",
+      "SHOP NO 311, CITY MALL CENTER, ZSQUARE, KANPUR, UTTAR PRADESH, KANPUR,",
+      "Shop No.53 & 54, 1st Floor, Z sqare Mall,16/113, M G Road, Bada Chaurah, Kanpur-208001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "KARWI",
+    "slug": "karwi",
+    "addresses": [
+      "CSS ,SECOND FLOOR ALLAHABAD BANDA ROAD KARWI CHITRKOOT NEAR VIJAYA KARWI UTTAR PRADESH 210205"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "KASGANJ",
+    "slug": "kasganj",
+    "addresses": [
+      "CSS ,GROUND FLOOR, BAREILLY MATHUR ROAD OPP GAUSHALA Bareilly UTTAR PRADESH 207123"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "KASIA (SADAR EARLIER)",
+    "slug": "kasia-sadar-earlier",
+    "addresses": [
+      "CSS ,1st Floor, Plot No. 281/7, Khushinagar-Gorakhpur Highway, Near Kasya Overbridge, Kasya, dist, Khushinagar, Uttar Pradesh - 274402"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "KAUSHAMBI",
+    "slug": "kaushambi",
+    "addresses": [
+      "CSS ,GROUND FLOOR CHAK NAGAR , MANJHANPUR , KAUSHAMBI NEAR OLD RTO OFFICE CHAK NAGAR KAUSHAMBI UTTAR PRADESH 212207"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "KHERAGARH",
+    "slug": "kheragarh",
+    "addresses": [
+      "CSS ,GROUND FLOOR KHERAGARH NEAR JANTA INTER COLLAGE AGRA UTTAR PRADESH 283121"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "KOIL (ALIGARH ROAD)",
+    "slug": "koil-aligarh-road",
+    "addresses": [
+      "CSS ,1st Floor, Kashra No. 114, H. No. 1807, Near Chobsingh Inter Collage, Koil, Aligarh, Uttar Pradesh – 202001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "KORAON",
+    "slug": "koraon",
+    "addresses": [
+      "CSS ,SECOND FLOOR LADIYARI ROAD PWD, KORAON ALLAHABAD UTTAR PRADESH 212306"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "KUNDA",
+    "slug": "kunda",
+    "addresses": [
+      "CSS ,GROUND FLOOR PADMA AROGYA NIKETAN,BUS STAND, KATCHEHRI ROAD BEHIND PRATAPGARH UTTAR PRADESH 230204"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "KUSHINAGAR",
+    "slug": "kushinagar",
+    "addresses": [
+      "CSS ,1st Floor, Tulsi Awas Vikas Colony Tulsi Awas Vikas Colony, Ramkola Road, Padrauna, Dist Kushinagar KUSHINAGAR UTTAR PRADESH 274304"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "LAKHIMPUR-KHERI (KANPUR)",
+    "slug": "lakhimpur-kheri-kanpur",
+    "addresses": [
+      "CSS ,FIRST FLOOR, 412 MAHARAJ NAGAR NEAR VIKAS BHAWAN KHERI ROAD LAKHIMPUR KHERI UTTAR PRADESH 262701"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "LALGANJ",
+    "slug": "lalganj",
+    "addresses": [
+      "CSS ,Ground Floor, Masirpur Beside of Baroda, By pass Azamghar – Varanasi Road, Lalganj Beside of Baroda LALGANJ UTTAR PRADESH 276202",
+      "CSS ,Ground Floor, Masirpur Beside of Baroda, By pass Azamghar – Varanasi Road, Lalganj Beside of Baroda LALGANJ UTTAR PRADESH 272207"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "LALITPUR",
+    "slug": "lalitpur",
+    "addresses": [
+      "CSS ,FIRST FLOOR, ANAND TOWER,ABOVE BAJAJ SHOW ROOM ELITE CHAURAHA JHANSI ROAD LALITPUR UTTAR PRADESH 284403"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "LAMBHUA",
+    "slug": "lambhua",
+    "addresses": [
+      "CSS ,344, UPPER GROUND FLOOR, NEAR SAHU TENT HOUSE, BEDUPARA NAGAR, LAMHUA, DIST. - SULTANPUR (U.P.) - 222302"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "LUCKNOW",
+    "slug": "lucknow",
+    "addresses": [
+      "CSS ,2ND FLOOR CSS CSS TOWER INDIRA NAGAR LUCKNOW UTTAR PRADESH 226016",
+      "Shop No. 51 , 1st Floor , Phoneix Palassios , Sector 7 Gomti Nagar Extn Lucknow - 226010",
+      "Shop No. P004, First Floor, Lulu Mall, Shaheed path, Lucknow. 226030",
+      "Shop No. P003, First Floor, Lulu Mall, Shaheed path, Lucknow. 226030",
+      "Shop No 209, Fun Republic Mall, Gomti Nagar, Lucknow - 226010",
+      "ETHNIX - HAZRATGUNJ, Shop no 52, Hazratgunj, Lucknow 226001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "LUCKNOW RO",
+    "slug": "lucknow-ro",
+    "addresses": [
+      "CSS ,5 TH FLOOR,MILLENIUM PLACE NEAR GD GOENKA SCHOOL SHAHEED PATH LUCKNOW UTTAR PRADESH 226030"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "MACCHLISHAHAR",
+    "slug": "macchlishahar",
+    "addresses": [
+      "CSS ,FIRST FLOOR, SHRI BALAJI BHAWAN ALLAHABAD-JAUNPUR R.D.MEMORIAL SCHOOL, MACHHLISAHAR JAUNPUR UTTAR PRADESH 222143"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "MAHARAJGANJ",
+    "slug": "maharajganj",
+    "addresses": [
+      "CSS ,Ground Floor Shivpur,,Opp. Sonalika Tractors,Gorakhpur Road,Maharajganj Opp. Sonalika Tractors MAHARAJGANJ UTTAR PRADESH 273303"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "MAHMUDABAD",
+    "slug": "mahmudabad",
+    "addresses": [
+      "CSS ,BESIDE SWARAZ SHOWROOM, NAI BAZAR ISWA ROAD SITAPUR UTTAR PRADESH 261203"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "MAHOBA",
+    "slug": "mahoba",
+    "addresses": [
+      "CSS ,GROUND FLOOR GANDHINAGAR, CHARKHARI BYPASS ROAD INFRONT OF RELIANCE PETROL PUMP MAHOBA UTTAR PRADESH 210427"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "MAINPURI",
+    "slug": "mainpuri",
+    "addresses": [
+      "CSS ,UPPER GROUND FLOOR 3/8 , AWAD VIKAS COLONY NEAR NAMAN KRISHNA PETROL PUMOP MAINPURI UTTAR PRADESH 205001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "MANKAPUR",
+    "slug": "mankapur",
+    "addresses": [
+      "CSS ,1st Floor, Shanti Complex Mohalla Bhagat singh, rly station Road, Beside nagar panchait office Beside nagar panchait office MANKAPUR UTTAR PRADESH 271302"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "MATHURA",
+    "slug": "mathura",
+    "addresses": [
+      "CSS ,FIRST FLOUR NEAR ATUL TOWER, MATHURA ROAD NEAR OM HOSPITAL PANACHE HOTEL BHUTESHWAR, KANKALI Mathura UTTAR PRADESH 281001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "MAU (VARANASI)",
+    "slug": "mau-varanasi",
+    "addresses": [
+      "CSS ,1st floor Jyoti Bhawan, 251/1, near , Sahadatpura, Maunath Bhaujan Near MAU (VARANASI) UTTAR PRADESH 275101"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "MAURANIPUR",
+    "slug": "mauranipur",
+    "addresses": [
+      "CSS ,FIRST FLOOR,S K MENTION ABOVE NEW BHADRAKALI TRACTORS NEAR GRAM PANCHYAT BHAWAN,N.H. 39 JHANSI ROAD MAURANIPUR UTTAR PRADESH 284204"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "MAWANA",
+    "slug": "mawana",
+    "addresses": [
+      "CSS ,1ST FLOOR SURYA PLAZA HASTINAPUR ROAD NEAR MUKTIYAR SWEET SHOP MEERUT UTTAR PRADESH 250401"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "MEERUT",
+    "slug": "meerut",
+    "addresses": [
+      "CSS ,2ND FLOOR, VIKAS PLAZA , ABOVE L OF BARODA MEERUT DELHI ROAD NOT APPLICABLE Meerut UTTAR PRADESH 250001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "MEERUT RO",
+    "slug": "meerut-ro",
+    "addresses": [
+      "CSS ,FIRST FLOOR, BC 2/3 , PARASAR TRADE TOWER DELHI ROAD NEAR TATA MOTORS Meerut UTTAR PRADESH 250103"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "MEJA",
+    "slug": "meja",
+    "addresses": [
+      "CSS ,FIRST FLOOR, MATRA SHAKTI COMPLEX ALLAHABAD - MIRZAPUR ROAD, MEJA HONDA SERVICE CENTER ALLAHABAD UTTAR PRADESH 212302"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "MIRZAPUR - LCK",
+    "slug": "mirzapur-lck",
+    "addresses": [
+      "CSS ,FIRST FLOOR BHARUHANA, CHUNAR ROAD, NEAR SALE TAX OFFICE MIRZAPUR UTTAR PRADESH 231001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "MOHAMMDABAD",
+    "slug": "mohammdabad",
+    "addresses": [
+      "CSS ,GROUND FLOOR GHAZIPUR-BALIA ROAD NEAR DURGA MANDIR GHAZIPUR UTTAR PRADESH 233227"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "MOTH",
+    "slug": "moth",
+    "addresses": [
+      "CSS ,C/O MUKHRIYA AUTOMOBILES , CSS MAIN ROAD 0 MOTH UTTAR PRADESH 284303"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "MURADABAD",
+    "slug": "muradabad",
+    "addresses": [
+      "CSS ,1ST FLOOR, RASTOGI COMLPLEX , ABOVE YAS DELHI ROAD NEAR DHARAMKANTA Moradabad UTTAR PRADESH 244001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "MUZAFFARNAGAR",
+    "slug": "muzaffarnagar",
+    "addresses": [
+      "CSS ,GROUND FLOOR, KAMBALWALA BAGH JANSATH BUS STAND ROAD NEAR JANSATH BUS STAND Muzaffranagar UTTAR PRADESH 251001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "NAINI",
+    "slug": "naini",
+    "addresses": [
+      "CSS ,FIRST FLOOR, PLOT NO. 13B/9B, MIRZAPUR - ALLAHABAD ROAD, DAUD NAGAR, NAINI NEAR ALLAHABAD UTTAR PRADESH 211011"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "NANPARA",
+    "slug": "nanpara",
+    "addresses": [
+      "CSS ,Ground floor, sharma bhawan, thasil road, opp block office, near tehsil office nanpara, Nanpara Bahraich, Uttar Pradesh - 271865"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "NARAINPUR",
+    "slug": "narainpur",
+    "addresses": [
+      "CSS ,FIRST FLOOR, 179 VARANASI - SHAKTINAGAR ROAD, NARAINPUR NARAINPUR TRIMUHANI MIRZAPUR UTTAR PRADESH 231305"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "NAUBASTA",
+    "slug": "naubasta",
+    "addresses": [
+      "CSS ,GROUND FLOOR 1177-W-2, BASANT VIHAR,HAMIRPUR ROAD,NAVBASTA KANPUR UTTARPRADESH 0 KANPUR UTTAR PRADESH 208021"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "ORAI",
+    "slug": "orai",
+    "addresses": [
+      "CSS ,TIRUPATI TOWER HOUSE NO. 1903/B PATEL NAGAR 0 INFORNT OF COLLECTRATE OFFICE ORAI UTTAR PRADESH 285001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "PADAV-CV",
+    "slug": "padav-cv",
+    "addresses": [
+      "CSS ,FIRST FLOOR PADAV-MUGHALSARAI ROAD OPPOSITE PUNEET AUTOMOBILES CHANDAULI UTTAR PRADESH 232101"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "PHILIBHIT",
+    "slug": "philibhit",
+    "addresses": [
+      "CSS ,GROUND FLOOR , NAKTA DANA CHAURAHA NOT APPLICABLE NEAR SSP , RESIDENCE Pilibhit UTTAR PRADESH 262001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "PHOOLPUR",
+    "slug": "phoolpur",
+    "addresses": [
+      "CSS ,1st Floor, LIC Building Railway Station Khurasan Road, Near Indian Petrol Pump, Phoolpur Azamgarh, Uttar Pradesh - 276304"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "PHULPUR",
+    "slug": "phulpur",
+    "addresses": [
+      "CSS ,FIRST FLOOR, PLOT NO. 214 JAUNPUR ROAD, VILLAGE BEERKAJI - SIKANDARA, PHULPUR NEAR IFFCO ALLAHABAD UTTAR PRADESH 212402"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "PRATAPGARH (ALLAHABAD)",
+    "slug": "pratapgarh-allahabad",
+    "addresses": [
+      "CSS ,FIRST FLOOR, SRIJAN COMPLEX ALLAHABAD - FAIZABAD ROAD, BHAGWA CHUNGI, PRATAPGARH OPPOSITE HERO HONDA AGENCY PRATAPGARH UTTAR PRADESH 230001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "RAI BAREILLY-UP",
+    "slug": "rai-bareilly-up",
+    "addresses": [
+      "CSS ,GROUND FLOOR, 848/A,CIVIL LINES, NEAR RELIANCE INFOCOM TOWER MANIKA ROAD RAIBAREILLY UTTAR PRADESH 229001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "RAJA TALAB",
+    "slug": "raja-talab",
+    "addresses": [
+      "CSS ,FIRST FLOOR VARNASI-ALLAHABAD ROAD SAI MANDIR, RAJA TALAB VARANASI UTTAR PRADESH 221311"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "RAMPUR",
+    "slug": "rampur",
+    "addresses": [
+      "CSS ,UPPER GROUND FLOOR , NAINITAL ROAD NEAR HERO DEALERSHIP, RAMPUR, UTTARPRADESH-244901"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "RASRA",
+    "slug": "rasra",
+    "addresses": [
+      "CSS ,1st Floor, Plot no 1469/1, Rajdhani Marg, Mau Rasra Road, Canara Building Rajdhani Marg, Mau Rasra Road,Rasra, Ballia, Uttar Pradesh - 221712"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "RASULABAD",
+    "slug": "rasulabad",
+    "addresses": [
+      "CSS ,GR. FLOOR GATTA NO - 2767 WARD NUMBER -05, JHINJHAK ROAD, CHAUHAN GUEST HOUSE, RASULABAD,KANPUR DISTRICT , UTTARPRADESH- 209306"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "RENUKOOT",
+    "slug": "renukoot",
+    "addresses": [
+      "CSS ,1st floor Village Murdhawa Renukoot, landmark near Hotel Padmini Dist. Sonebhadra uttar Pradesh 231217"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "RUDHAULI",
+    "slug": "rudhauli",
+    "addresses": [
+      "CSS ,Ground Floor Umar Hospital, Al- Jazeerah Building, Main Rudauli Road, Belsar Al- Jazeerah Building Rudali UTTAR PRADESH 224116"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "SAHARANPUR",
+    "slug": "saharanpur",
+    "addresses": [
+      "CSS ,FIRST FLOOR, ASHA MODERN SCHOOL LANE, NEAR CIVIL COURT , COURT ROAD SAHARANPUR UTTAR PRADESH - 247001",
+      "No.25/200, Gill Colony Court Road, Shaharanpur -257001",
+      "Court Road, Gill Colony, Saharanpur, Uttar Pradesh – 247001."
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "SAIDPUR",
+    "slug": "saidpur",
+    "addresses": [
+      "CSS ,FIRST FLOOR VARANASI - GHAZIPUR ROAD SAIDPUR BAZAR GHAZIPUR UTTAR PRADESH 233304"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "SAIYADRAJA",
+    "slug": "saiyadraja",
+    "addresses": [
+      "CSS ,GROUND FLOOR, VARANASI - KOLKATTA ROAD, OLD GT ROAD, SYEDRAJA BAZAR NATIONAL INTER COLLEGE CHANDAULI UTTAR PRADESH 232110"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "SALEMPUR",
+    "slug": "salempur",
+    "addresses": [
+      "CSS ,1st Floor, Ward no - 12 Deoria Main Road, Salempur Above, SALEMPUR UTTAR PRADESH 274509"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "SANDILA",
+    "slug": "sandila",
+    "addresses": [
+      "CSS ,GROUND FLOOR,UNIT NO -254 OPPOSITE SDM COMPOUND ,NEERAJ MEDICAL STORE, SUMBABA LUCKNOW ROAD SANDILA UTTAR PRADESH 241204"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "SANT KABIR NAGAR",
+    "slug": "sant-kabir-nagar",
+    "addresses": [
+      "CSS ,Ground floor, near LIC building Infront of corporation , Sugar mill road, Khalilabad, SANT KABIR NAGAR UTTAR PRADESH 272175"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "SHAHGANJ",
+    "slug": "shahganj",
+    "addresses": [
+      "CSS ,FIRST FLOOR, WARD NO. 09 SHAHGANJ ROADWAYS OPPSITE SHAHGANJ ROADWAYS JAUNPUR UTTAR PRADESH 223101"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "SHAHJAHANPUR",
+    "slug": "shahjahanpur",
+    "addresses": [
+      "CSS ,SECOND FLOOR, 26TH KHANNA WORK SHOP TARIN TIKLI BAHADURGANJ NEAR MOHAN NURSING HOME Shahjahanpur UTTAR PRADESH 242001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "SHAMLI",
+    "slug": "shamli",
+    "addresses": [
+      "CSS ,1ST FLOOR, RAJ TOWER, DELHI BUS STAND SHAMLI NEAR INDIAN OIL PETORL PUMP, UTTAR PRADESH 247776"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "SHRAWASTI",
+    "slug": "shrawasti",
+    "addresses": [
+      "CSS ,Ground floor Mohalla Bandaraha,Lakdi Mandi,Dahana Bhinga Lakdi Mandi SHRAWASTI UTTAR PRADESH 271831"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "SIDDHARTHNAGAR",
+    "slug": "siddharthnagar",
+    "addresses": [
+      "CSS ,1st floor, Radhey-Radhey,plot no-113 PWD mail road near Thrauli Above Buddha Hospital SIDDHARTHNAGAR UTTAR PRADESH 272207"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "SIDHAULI",
+    "slug": "sidhauli",
+    "addresses": [
+      "CSS & CSS FINANCIAL, SERVICES LIMITED, GROUND FLOOR, BUILDING NO-161/1, 846795, SITAPUR ROAD, VIVEK NAGAR, SIDHAULI,SITAPUR, UTTAR PRADESH, 261303,"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "SIKANDRA RAO (ATROLI)",
+    "slug": "sikandra-rao-atroli",
+    "addresses": [
+      "CSS ,1st Floor, Krishna Bhawan, Collage Road, Vivekanandpuram Colony, Atrauli,Aligarh Uttar Pradesh202280"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "SIRATHU",
+    "slug": "sirathu",
+    "addresses": [
+      "CSS ,GROUND FLOOR, WARD NO.11 SAINI ROAD , SIRATHU KAUSHAMBI UTTAR PRADESH 212217"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "SITAPUR(KANPUR)",
+    "slug": "sitapur-kanpur",
+    "addresses": [
+      "CSS ,First Floor DR Towers Officer Colony road, Civil Lines, Near Goel Chauraha, Sitapur - 261001 UP"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "SONEBHADRA (ALLAHABAD)",
+    "slug": "sonebhadra-allahabad",
+    "addresses": [
+      "CSS ,GROUND FLOOR, HEM GANGA COMPLEX PIPRI ROAD, BESIDE MISSION HOSPITAL, SONEBHADRA BESIDE MISSION HOSPITAL SONEBHADRA UTTAR PRADESH 231216"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "SULTANPUR-UP",
+    "slug": "sultanpur-up",
+    "addresses": [
+      "CSS ,Ground floor, plot no-12K Near transport nagar opp-V.K.Zone Honda Showroom LKO-Varanasi road SULTANPUR-UP UTTAR PRADESH 228001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "SUNDERPUR",
+    "slug": "sunderpur",
+    "addresses": [
+      "CSS ,GROUND FLOOR, N8/239J, NEWADA DLW-BHU ROAD, SUNDERPUR IN FORNT OF OMEGA HOSPITAL VARANASI UTTAR PRADESH 221005"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "TAMKUHI",
+    "slug": "tamkuhi",
+    "addresses": [
+      "CSS ,1st Floor, Ward no - 2, Janki Nagar, Seorahi Tamkuhi Road Above Laxmi Furniture, TAMKUHI UTTAR PRADESH 274406"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "TANDA",
+    "slug": "tanda",
+    "addresses": [
+      "CSS ,Ground Floor, Ho No. 454/B Mahallaha Kashimria, Beside Amit Motors Pvt Ltd.,TANDA UTTAR PRADESH 224190"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "TEDI BAGIA",
+    "slug": "tedi-bagia",
+    "addresses": [
+      "CSS ,Ground Floor, Plot No. 14, Shankar Nagar, Gandhi Jeevan Rai, Hathras Road, Near Gandh Jeevan Rai, Post Yamuna Bridge, Kuberpur, Tedi Bagia, Agra, Uttar Pradesh - 282006"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "UNCHAHAR",
+    "slug": "unchahar",
+    "addresses": [
+      "CSS ,FIRST FLOOR NEAR MAURYA ESTATE SALON AND NTPC ROAD UNCHAHAR UTTAR PRADESH 229404"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "UNNAO",
+    "slug": "unnao",
+    "addresses": [
+      "CSS ,2ND FLOOR, JAMUNA BHAWAN,23, PITAMBAR NAGAR,ABOVE B.N.BAKERY, UNNAO UTTAR PRADESH 209801"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "VARANASI - LCK",
+    "slug": "varanasi-lck",
+    "addresses": [
+      "CSS ,FIRST FLOOR, S20/51-5&SB 20/52-4, SRI DAS FOUNDATION THE MALL ROAD, CANTONMENT HOTEL RADISSON VARANASI UTTAR PRADESH 221002"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "ZAMANIA",
+    "slug": "zamania",
+    "addresses": [
+      "CSS ,FIRST FLOOR, VILLAGE LODHIPUR KHAS SYEDRAJA GHAZIPUR ROAD, ZAMANIA NEAR BAJRANG ITI GHAZIPUR UTTAR PRADESH 232329"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "Ayodhya",
+    "slug": "ayodhya",
+    "addresses": [
+      "CP Ayodhya, Raymond Lifestyle Limited Ram Path Imli Kattar, Civil Lines, Ayodhya. Uttar Pradesh-224001",
+      "PA/PX Ayodhya, Ram Path Imli Kattar, Civil Lines, Ayodhya. Uttar Pradesh-224001",
+      "Raymond Life Style Limited, RTW Ayodhya,Ram Path Imli Kattar, Civil Lines, Ayodhya. Uttar Pradesh-224001",
+      "Ethnix AyodhyaRaymond Life Style Limited, ,am Path Imli Kattar, Civil Lines, Ayodhya. Uttar Pradesh-224001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "Bareilly",
+    "slug": "bareilly",
+    "addresses": [
+      "Shop No G-39 , Phoenix United,Near Mahanagar Colony ,,Pilibhit Bypass Road , Bareilly",
+      "Raymond Lifestyle Limited, Parx Store, Shop No. F-13 & 14, First Floor, Phoneix United Mall Near By Mahanagar Colony Bareilly",
+      "Shop No G-15 , Phoenix United,Near Mahanagar Colony ,,Pilibhit Bypass Road , Bareilly"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "Allahabad",
+    "slug": "allahabad",
+    "addresses": [
+      "Raymond Lifestyle Limited UPPER GROUND FLOOR, F17/33 TASHKAND MARG ALLAHABAD-211001, PRAYAGRAJ UP.",
+      "Shop no 5,Ground Floor,,5A, Sardar Patel Marg,Civil Lines, ,Allahabad:",
+      "GROUND FLOOR, F17/33 TASHKAND MARG ALLAHABAD-211001, PRAYAGRAJ UP."
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "Noida",
+    "slug": "noida",
+    "addresses": [
+      "Raymond Shop- DLF Mall of India, F373, Second Floor, Plot M-03, Sector 18, Noida- 201301",
+      "Raymond Shop- Ethnix Raymond Lifestyle Limited, Shop No.15, Ground Floor The Grand Venic Greater Noida 201308e Mall,",
+      "Raymond Shop- Shop No. 116, Unitech Great India Place, Sector 18, NOIDA, U.P.",
+      "Raymond Shop- DLF Mall of India, 2nd Floor, Shop no-320/321, Plot-M03, Sector 18, Noida - 201 301,UP",
+      "Raymond Shop- Ethnix Raymond Lifestyle Limited, J-14, Sector 18. Noida Uttarpradesh 201301, PH No. 0120-4136021"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "Ghaziabad",
+    "slug": "ghaziabad",
+    "addresses": [
+      "Indirapuram Habitat Center Shop No. 306 to 09 and 28 Ahinsa Khand-1,Indirapura, Ghaziabad-201012"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "Varanasi",
+    "slug": "varanasi",
+    "addresses": [
+      "Raymond Lifestyle Limites, Ethnix by Raymond, shop No.C27 /278. Maldahiya Near Kambalghar- Varanasi-221002"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "branch": "Prayagraj",
+    "slug": "prayagraj",
+    "addresses": [
+      "Raymond Lifestyle Limited Ethnix by Raymond, Shop No.9/9, Civil Lines, Prayagraj 211001"
+    ],
+    "state_slug": "uttar-pradesh"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "ABU ROAD",
+    "slug": "abu-road",
+    "addresses": [
+      "CSS ,54/1 & 54/2, FIRST FLOOR, ABOVE NAVNEET MOTORS, AKRA BATTA, OPP. HOUSING BOARD, MOUNT ABU RAOD, UDAIPUR 307026 AKRA BATTA ABU ROAD RAJASTHAN 307026"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "AJMER, RAJASTHAN",
+    "slug": "ajmer-rajasthan",
+    "addresses": [
+      "CSS ,YADAV MANSION 533/15, FIRST FLOOR, SRINAGAR ROAD, AJMER( RAJ)-305001 YADAV MANSION AJMER RAJASTHAN 305001"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "AKLERA",
+    "slug": "aklera",
+    "addresses": [
+      "CSS ,GROUND FLOOR, HOTEL SNAGAM, BYPASS ROAD, AKLERA DISTT JHALAWAR 326033 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "ALWAR",
+    "slug": "alwar",
+    "addresses": [
+      "CSS ,GROUND FLOOR, CHAMBER BHAWAN, NEAR HANUMAN CIRCLE, DELHI ROAD, MUNGASKA, ALWAR 301001 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "BAYANA",
+    "slug": "bayana",
+    "addresses": [
+      "CSS ,GROUND FLOOR, PLOT C-6, GROUND FLOOR, NEAR KARAN SINGH HOSPITAL, RICCO AREA, BAYANA 321401 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "BEHROR",
+    "slug": "behror",
+    "addresses": [
+      "CSS ,1ST, FLOOR GOSWAMI SADAN, OPP OLD HOSPITAL, BEHROR 301701 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "BHIWADI - TWO",
+    "slug": "bhiwadi-two",
+    "addresses": [
+      "CSS ,2ND FLOOR, A-97, ATO D MAIN ROAD, NEAR JOYTI AUTO MOBILE, NEELAM CHOWK, BHIWADI 301019 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "KISHANGARH BAS",
+    "slug": "kishangarh-bas",
+    "addresses": [
+      "CSS ,GROUND FLOOR, KRISHNA LAKHYANI MARKET, ALWAR ROAD, TOP CIRCLE, KISHANGARH BAS, DISTT ALWAR, 301405 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "MATSYA NAGAR",
+    "slug": "matsya-nagar",
+    "addresses": [
+      "CSS ,1ST FLOOR, PLOT NO:46, OM TOWER, ASHOK VIHAR, NEAR CROSS ROAD MALL, ALWAR 301001 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "NAGAR",
+    "slug": "nagar",
+    "addresses": [
+      "CSS ,GROUND FLOOR, Dr. RITURAJ CLINIC, ALWAR-BHARATPUR ROAD, NEAR BUS STAND, NAGAR, DISTT. BHARATPUR 321205 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "BANDIQUI",
+    "slug": "bandiqui",
+    "addresses": [
+      "CSS ,GROUND FLOOR, OPP VETERINARY HOSPITAL, BASWA ROAD, BANDIKUI, DISTT DAUSA, 303313 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "THANAGAZI (MRHFL)",
+    "slug": "thanagazi-mrhfl",
+    "addresses": [
+      "CSS ,1ST FLOOR, GOL MARKET, MANDI CHOWK, NEAR BUS STAND, OPP SUB REGISTRAR OFFICE, THANAGAZI, DISTT ALWAR 301022 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "BARAN",
+    "slug": "baran",
+    "addresses": [
+      "CSS ,1ST FLOOR, SOHAN MEDICAL, OPP. GOVT. HOSPITAL, NEAR MINI BAZAR, BARAN 325205 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "TIJARA",
+    "slug": "tijara",
+    "addresses": [
+      "CSS ,GROUND FLOOR, ASLIMPUR CHOWK, TIJARA BYPASS ROAD, TIJARA, DISTT ALWAR 301411 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "ANOOPGARH SB",
+    "slug": "anoopgarh-sb",
+    "addresses": [
+      "CSS ,SHEKHAWATI COMPLEX, BIKANER ROAD, ANOOPGARH(SRI GANGANAGAR), RAJASTHAN - 335701 SHEKHAWATI COMPLEX SRI GANGANAGAR RAJASTHAN 335701"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "BASSI",
+    "slug": "bassi",
+    "addresses": [
+      "CSS ,GROUND FLOOR, POTLYA MARKET, GANGA DHAM MODE, JAIPUR ROAD, BASSI, DISTT JAIPUR 303301 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "BAGIDORA",
+    "slug": "bagidora",
+    "addresses": [
+      "CSS ,PART 1A, 1ST FLOOR, VIDHYA SUDHA BHAVAN, OLD BUS STAND , OLD BUS STAND BANSWARA RAJASTHAN 327601"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "BAJJU",
+    "slug": "bajju",
+    "addresses": [
+      "CSS ,First Floor, Mistri Market, Bajju, Dist. Bikaner Near Hari Katla Market, BIKANER RAJASTHAN 334305"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "BHARATPUR",
+    "slug": "bharatpur",
+    "addresses": [
+      "CSS ,1ST FLOOR, TIWARI BHAWAN,NEAR KUMHER GATE, BHARATPUR 321001 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "BHAWANI MANDI",
+    "slug": "bhawani-mandi",
+    "addresses": [
+      "CSS ,GROUND FLOOR, NEAR HP PETROL PUMP, JHALAWAR BY PASS ROAD, BHAWANI MANDI 326502 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "BHILWARA",
+    "slug": "bhilwara",
+    "addresses": [
+      "CSS ,1ST FLOOR MAHAVEER PLAZA, OPP. UIT, AJMER ROAD, BHILWARA 311001 OPP. UIT BHILWARA RAJASTHAN 311001"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "BHILWARA TWO",
+    "slug": "bhilwara-two",
+    "addresses": [
+      "CSS ,218, SECOND FLOOR, GOVINDAM, NEAR SANDEEP HYUNDAI, OLD RTO ROAD, BHILWARA 311001 NEAR SANDEEP HYUNDAI BHILWARA RAJASTHAN 311001"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "DUNGARGARH",
+    "slug": "dungargarh",
+    "addresses": [
+      "CSS ,1ST FLOOR, NEAR ASHISH HOTEL, NH-11, SRIDUNGARGARH, RAJASTHAN - 331803 ASHISH HOTEL DUNGARGARH RAJASTHAN 331803"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "KHAJUWALA",
+    "slug": "khajuwala",
+    "addresses": [
+      "CSS ,First Floor, New Dhan Mandi Road, General Market Shops, Khajuwala, Dist. Bikaner Near Dhan Mandi, BIKANER RAJASTHAN 334023"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "SURATGARH",
+    "slug": "suratgarh",
+    "addresses": [
+      "CSS ,J82 & J83, ESF FARM COMPLEX, BIKANER ROAD, SURATGARH, RAJASTHAN - 335804 ESF FARM COMPLEX SRI GANGANAGAR RAJASTHAN 335804"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "BIKANER",
+    "slug": "bikaner",
+    "addresses": [
+      "CSS ,1ST FLOOR, SIDDHI VINAYAK COMPLEX, OPP. MEDICAL AUDITORIUM, SHASHTRI NAGAR, NAGNECHI VISTAR YOJNA, BIKANER 334001 RAJASTHAN. SURANA NURSING HOME BIKANER RAJASTHAN 334001"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "ASIND",
+    "slug": "asind",
+    "addresses": [
+      "CSS ,SHOP NO 1 KESHAV COMPLEX BYAWAR ROAD ASIND BHILWARA RAJASTHAN 311301"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "BARI",
+    "slug": "bari",
+    "addresses": [
+      "CSS ,2ND FLOOR, AGROHA TOWER , BARI, DISTT. DHOLPUR 328021 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "CHOMU",
+    "slug": "chomu",
+    "addresses": [
+      "CSS ,1ST FLOOR, NEAR RAJASTHAN NURSING HOME, NH-11 , JAIPUR ROAD, CHOMU 303702 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "CHITTORGARH",
+    "slug": "chittorgarh",
+    "addresses": [
+      "CSS ,1ST FLOOR,ABOVE LAXMI SALES,SUKHADIA MARKET, NEAR CHANDRALOK TALKIES, KILLA ROAD, CHITTORGARH 312001 NEAR CHANDRALOK TALKIES CHITTORGARH RAJASTHAN 312001"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "DANTA RAMGARH",
+    "slug": "danta-ramgarh",
+    "addresses": [
+      "CSS ,GROUND FLOOR, NEAR HOTEL GREEN VALLEY, BYPASS ROAD,DANTA RAMGARH, DISTT SIKAR, 332703 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "CHURU-RAJASTHAN",
+    "slug": "churu-rajasthan",
+    "addresses": [
+      "CSS ,1ST FLOOR, A-12, SECTOR-1, BHALERI ROAD, SAINIK BASTI, NEAR NEW BUS STAND, CHURU, 331001 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "DEOLI (MRHFL)",
+    "slug": "deoli-mrhfl",
+    "addresses": [
+      "CSS , 2ND FLOOR, NH -12 , OPP GOVERNMENT COLLEGE, JAIPUR ROAD, DISTT. TONK 304804 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "DAUSA",
+    "slug": "dausa",
+    "addresses": [
+      "CSS ,1ST FLOOR, RAJ CHAMBER, OPP. PWD OFFICE, AGRA ROAD, DAUSA 303303 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "JOBNER",
+    "slug": "jobner",
+    "addresses": [
+      "CSS ,GROUND FLOOR, ADJOINED K S MOTORS, BYPASS, NAGA CIRCLE, KALWAR ROAD, JOBNER, DISTT JAIPUR 303328 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "DHOLPUR",
+    "slug": "dholpur",
+    "addresses": [
+      "CSS ,1ST FLOOR, PARWATI COMPLEX, GT ROAD, DHOLPUR 328001 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "KHANDAR",
+    "slug": "khandar",
+    "addresses": [
+      "CSS ,GROUND FLOOR, NEAR BADA TALAB, KHANDAR, DISTT SAWAI MADHOPUR, 322025 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "KUCHAMAN CITY",
+    "slug": "kuchaman-city",
+    "addresses": [
+      "CSS ,1ST FLOOR, DEEDWANA ROAD, KUCHAMAN CITY, RAJASTHAN – 341508 BEHIND KUCHAMAN RAJASTHAN 341508"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "NAINWA",
+    "slug": "nainwa",
+    "addresses": [
+      "CSS ,GROUND FLOOR, PRAMOD TRADERS, BK COMPLEX, NEAR NEMINATH KATLA, JAIPUR ROAD, NAINWA, DISTT. BUNDI, 323801 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "FATEHNAGAR",
+    "slug": "fatehnagar",
+    "addresses": [
+      "CSS ,GROUND FLOOR, NEAR BOHRA MOTORS, UDAIPUR FATEHNAGAR ROAD, FATEHNAGAR, DIST : UDAIPUR, RAJASTHAN - 313205 NA UDAIPUR RAJASTHAN 313205"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "GANGAPUR CITY",
+    "slug": "gangapur-city",
+    "addresses": [
+      "CSS ,1ST FLOOR, BANSAL BHAWAN, ADARSH NAGAR, NEAR GAURAV MARRIAGE GARDEN, GANGAPUR CITY, DISTT SAWAI MADHOPUR, 322001 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "NEEM KA THANA",
+    "slug": "neem-ka-thana",
+    "addresses": [
+      "CSS ,GROUND FLOOR, NEAR GEHLOT MOTORS, KHETRI ROAD, NEEM KA THANA, DISTT SIKAR 332713 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "NOHAR SB",
+    "slug": "nohar-sb",
+    "addresses": [
+      "CSS ,GROUND FLOOR, NEAR ADJ COURT, OPP. RAM SUKHDAS PARK, NEAR BSNL EXCHANGE OFFICE, TEHSIL NOHAR, DISTT HANUMANGARH 335523 RAJASTHAN NEAR ADJ COURT HANUMANGARH RAJASTHAN 335523"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "HANUMANGARH",
+    "slug": "hanumangarh",
+    "addresses": [
+      "CSS ,1ST FLOOR, KSK HONDA, TOWN JUNCTION ROAD, HANUMANGARH TOWN, RAJASTHAN - 335513 KSK HONDA SHOWROOM HANUMANGARH RAJASTHAN 335513"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "HINDAUN-RAJASTHAN",
+    "slug": "hindaun-rajasthan",
+    "addresses": [
+      "CSS ,1ST FLOOR, NAI MANDI , STATION ROAD, NEAR AGARSEN DHARAMSHALA, DISTT. KARAULI, HINDAUN 322230 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "ITAWA",
+    "slug": "itawa",
+    "addresses": [
+      "CSS ,GROUND FLOOR, VISHWAKARMA COLONY, KHATOLI ROAD, ITAWA, DISTT KOTA, 325004 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "NUNDARI SB",
+    "slug": "nundari-sb",
+    "addresses": [
+      "CSS ,SHOP NO. 4 GANESHPURA ROAD NUNDARI MALDEV JAWAJA NUNDARI TEHSIL BEAWAR DIST. AJMER RAJASTHAN 305901 NUNDARI MALDEV JAWAJA AJMER RAJASTHAN 305901"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "JAIPUR",
+    "slug": "jaipur",
+    "addresses": [
+      "CSS ,4TH FLOOR, OFFICE NO 503- 504, SHALIMAR COMPLEX, OPP. CHURCH, M.I ROAD, JAIPUR 302001 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "JAIPUR RO",
+    "slug": "jaipur-ro",
+    "addresses": [
+      "CSS ,3RD FLOOR, GOVINDI TOWER, DURGA VIHAR COLONY, NEAR DURGAPURA BUS STAND, TONK ROAD, DURGAPURA, JAIPUR 302018 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "JAIPUR TWO/ TRANSPORT NAGAR BRANCH",
+    "slug": "jaipur-two-transport-nagar-branch",
+    "addresses": [
+      "CSS ,1ST FLOOR, SHREENATH TOWER, COSMO COLONEY, NEAR AMRAPALI CIRCLE, VAISHALI NAGAR , JAIPUR 302021 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "OJTOO SB",
+    "slug": "ojtoo-sb",
+    "addresses": [
+      "CSS ,1ST FLOOR, NEAR VIJAY GAS AGENCY, VIKAS NAGAR, CHIRAWA, OJTOO, DISTT JHUNJHUNU 333026 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "RAJGARH ALWAR",
+    "slug": "rajgarh-alwar",
+    "addresses": [
+      "CSS ,GROUND FLOOR, NEAR ALWAR RAILWAY STATION, RAJGARH, DISTT ALWAR 301001 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "JHALAWAR",
+    "slug": "jhalawar",
+    "addresses": [
+      "CSS ,1ST FLOOR, KAMAL ENCLAVE BUILDING, NH-12, PATAN ROAD, JHALAWAR 326001 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "JHUNJHUNU - RAJASTHAN",
+    "slug": "jhunjhunu-rajasthan",
+    "addresses": [
+      "CSS ,2ND FLOOR, MOOL CHAND KATEWA MARKET, NEAR PEERU SINGH CIRCLE, JHUNJHUNU RAILWAY STATION, JHUNJHUNU 333001 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "RATANGARH (MRHFL)",
+    "slug": "ratangarh-mrhfl",
+    "addresses": [
+      "CSS ,SECOND FLOOR, PLOT NO 21-22, OPP. RINWA BHAWAN, RATANGARH, DISTT CHURU, 331022 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "SAWAI MADHOPUR-RAJASTHAN",
+    "slug": "sawai-madhopur-rajasthan",
+    "addresses": [
+      "CSS ,GROUND FLOOR, OPP BAJAJ SHOWROOM, ALANPUR LINK ROAD, NEAR MARUTI SHOWROOM, SAWAI MADHOPUR 322001 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "KAMAN",
+    "slug": "kaman",
+    "addresses": [
+      "CSS ,1ST FLOOR, VASHISTH TRADERS, NEAR BRIJWASI RESTAURENT, KOSI ROAD, KAMAN, DISTT BHARATPUR 321002 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "KARUALI",
+    "slug": "karuali",
+    "addresses": [
+      "CSS ,GROUND FLOOR, GULAB BAG, KELA DEVI ROAD, KARUALI 322241 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "KEKRI",
+    "slug": "kekri",
+    "addresses": [
+      "CSS ,Ground Floor, Malviya Nagar, Opp. Agarwal Tractor Showroom, Sarwar Road, Kekri, Dist. Ajmer Near Balaji Service Center, AJMER RAJASTHAN 305404"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "BALESAR",
+    "slug": "balesar",
+    "addresses": [
+      "CSS ,1ST FLOOR, ABOVE VIJAY ABHUSHAN, OPP. DEPUTY OFFICE, AMRIT NAGAR CIRCLE, BALESAR, RAJASTHAN - 342023 DEPUTY OFFICE JODHPUR RAJASTHAN 342023"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "BALOTRA SB",
+    "slug": "balotra-sb",
+    "addresses": [
+      "CSS ,1ST FLOOR, NEAR SHIV MANDIR, SARAS DAIRY, RUNECHA DHAM, PACHPADRA ROAD, BALOTRA(BARMER), RAJASTHAN - 344022 RUNECHA DHAM BARMER RAJASTHAN 344022"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "BARMER",
+    "slug": "barmer",
+    "addresses": [
+      "CSS ,1ST FLOOR, MAA SANTOSHI TOWER, ABOVE O.S. FORD, NEAR CHOUTAN CIRCLE, BARMER, RAJASTHAN - 344001 CHOUTAN CIRCLE BARMER RAJASTHAN 344001"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "BILARA",
+    "slug": "bilara",
+    "addresses": [
+      "CSS ,Ground Floor, Near Shiv Motors Tractor Dealer, Jodhpur Road, Bilara Distt Jodhpur Opp National Highway Authority Office, JODHPUR RAJASTHAN 342603"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "KOTA",
+    "slug": "kota",
+    "addresses": [
+      "CSS ,1ST FLOOR, PLOT NO 7, OPP AIRPORT GATE, JHALAWAR ROAD, KOTA 324007 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "KOTA TWO",
+    "slug": "kota-two",
+    "addresses": [
+      "CSS ,1ST FLOOR, APNA KANTA, GOBARIYA BAWDI CHAURAHA, JHALAWAR ROAD, KOTA 324005 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "KOTPUTLI",
+    "slug": "kotputli",
+    "addresses": [
+      "CSS ,GROUND FLOOR, NEAR PREM MOTORS, NH-8, OPP. SANU TRACTOR, KOTPUTLI 303108 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "DHORIMANA",
+    "slug": "dhorimana",
+    "addresses": [
+      "CSS ,Ground Floor, Opposite Electricity Office, NH-68, Dhorimana, Dist. Barmer Opposite Electricity Office, BARMER RAJASTHAN 344704"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "LALSOT",
+    "slug": "lalsot",
+    "addresses": [
+      "CSS ,1ST FLOOR, NEAR PWD OFFICE, GANGAPUR ROAD, LALSOT, DISTT DAUSA, 303303 RAJATHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "GUDAMALANI",
+    "slug": "gudamalani",
+    "addresses": [
+      "CSS ,First Floor, Near Anapurna Ashram, Jodhpur Road, Gudamalani, Dist. Barmer Near Anapurna Ashram, BARMER RAJASTHAN 344031"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "MERTA",
+    "slug": "merta",
+    "addresses": [
+      "CSS ,2ND FLOOR, OPP. GATE NO.1, KRISHI MANDI ROAD, MERTA CITY, RAJASTHAN – 341510 KRISHI MANDI ROAD MERTA RAJASTHAN 341510"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "JAISALMER(RAJASTHAN)",
+    "slug": "jaisalmer-rajasthan",
+    "addresses": [
+      "CSS ,1ST FLOOR, BHATIA TOWER, OPP. BHATIA BAGICHI, NEAR HANUMAN CIRCLE, GEETA ASHRAM ROAD, JAISALMER 345001 RAJASTHAN. BHATIA BAGHECHI JAISALMER RAJASTHAN 345001"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "NAGAUR",
+    "slug": "nagaur",
+    "addresses": [
+      "CSS ,1ST FLOOR, CLASSIC AUTOMOBILE, DIDWANA ROAD, NAGAUR, RAJASTHAN – 341001 NAGAUR RAJASTHAN 341001"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "JALORE SB",
+    "slug": "jalore-sb",
+    "addresses": [
+      "CSS ,NEAR KRISHI MANDI, AHORE ROAD, JALORE, RAJASTHAN - 343001 NEAR KRISHI MANDI JALORE RAJASTHAN 343001"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "JODHPUR/JODHPUR RO",
+    "slug": "jodhpur-jodhpur-ro",
+    "addresses": [
+      "CSS ,PLOT NO. 49, NK TOWER, OPP. NEW KOHINOOR CINEMA, CHOPASNI ROAD, JODHPUR, RAJASTHAN - 342006 OPP. NEW KOHINOOR CIEMA JODHPUR RAJASTHAN 342006"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "OSIAN",
+    "slug": "osian",
+    "addresses": [
+      "CSS ,Ground Floor, Near New Bus Stand, Jodhpur – Phalodi Bypass Road, Osian, Dist. Jodhpur Near New Bus Stand, JODHPUR RAJASTHAN 342303"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "PALI",
+    "slug": "pali",
+    "addresses": [
+      "CSS ,1ST FLOOR,CHANDRA LOK BUILDING, STATION ROAD, PALI, RAJASTHAN - 306401 CHANDRALOK BUILDING PALI RAJASTHAN 306401"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "NOKHA",
+    "slug": "nokha",
+    "addresses": [
+      "CSS ,Ground Floor, Motor Market, Chungi Nake Ke Pass Nagaur Road Near Vishwakarma Water Supplier Bikaner RAJASTHAN 334803"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "PHALODI",
+    "slug": "phalodi",
+    "addresses": [
+      "CSS ,1ST FLOOR, NEAR MAHADEV MANDIR, DHOLA PALA, OPP. TWO WHEELER SHOWROOM, JAISALMER ROAD, PHALODI, RAJASTHAN - 342301 TVS TWO WHEELER SHOWROOM PHALODI RAJASTHAN 342301"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "POKHRAN",
+    "slug": "pokhran",
+    "addresses": [
+      "CSS ,2ND FLOOR, OPP. POKHRAN MOTORS, TIRUPATI NAGAR, NEAR HOTEL JAI BHAWANI, BARMER, ROAD, POKHRAN, 345021 RAJASTHAN NEAR HOTEL JAI BHAWANI JAISALMER RAJASTHAN 345021"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "SHASTRINAGAR",
+    "slug": "shastrinagar",
+    "addresses": [
+      "CSS ,Shop No 3, PLOT NO.5, MUDIT MANSION, OPP. SHASTRI NAGAR POLICE THANA, PLA LINK ROAD, JODHPUR, RAJASTHAN - 342001 SHASTRI NAGAR POLICE THANA JODHPUR RAJASTHAN 342001"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "BUNDI",
+    "slug": "bundi",
+    "addresses": [
+      "CSS ,1ST FLOOR, GAYATRI NAGAR, LANKA GATE ROAD, OPP. AGRICULTURE OFFICE, BUNDI 323001 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "CHHABRA",
+    "slug": "chhabra",
+    "addresses": [
+      "CSS ,GROUND FLOOR, OPPOSITE KRASHI UPAJ MANDI, NEAR HP GAS AGENCY, STATION ROAD, CHHABRA, DISTT KOTA, 355220 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "BANSWARA",
+    "slug": "banswara",
+    "addresses": [
+      "CSS ,1ST FLOOR, KANSARA COMPLEX NEAR ANAND ORTHOPEDIC HOSPITAL, OPP RSCB COLONY, UDAIPUR ROAD, BANSWARA - 327001 NA BANSWARA RAJASTHAN 327001"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "BHINDER",
+    "slug": "bhinder",
+    "addresses": [
+      "CSS ,SHOP NO 194, 199/3, SALUMBER CHOURAHA, NEAR RAILWAY STATION, BHINDER UDAIPUR RAJASTHAN 313603"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "BHINMAL",
+    "slug": "bhinmal",
+    "addresses": [
+      "CSS ,GROUND FLOOR, SHOP NO. 8, SHREE SHYAM PLAZA, RANIWADA BYPASS ROAD, BHINMAL, RAJASTHAN - 343029 OS MOTORS JALORE RAJASTHAN 343029"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "RAJSAMAND",
+    "slug": "rajsamand",
+    "addresses": [
+      "CSS ,1ST FLOOR, RAMJI MARKET, SHREE BALAJI NAGAR, OPP SILVER SPRING APPARTMENT, 100 FT ROAD, RAJSAMAND , RAJASTHAN - 313324 NA RAJSAMAND RAJASTHAN 313324"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "RAMGANJMANDI",
+    "slug": "ramganjmandi",
+    "addresses": [
+      "CSS ,10, SUKHDEV NAGAR, KHAIRABAD, RAMGANJMANDI DIST. KOTA 326519 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "DUNGARPUR",
+    "slug": "dungarpur",
+    "addresses": [
+      "CSS ,SHOP NO 2, 1ST FLOOR, MAHAVIR BHAVAN, OPP RETI STAND, SAGWARA ROAD, DIST : DUNGARPUR, RAJASTHAN - 314001 OPP. RETI STAND DUNGARPUR RAJASTHAN 314001"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "REENGUS",
+    "slug": "reengus",
+    "addresses": [
+      "CSS ,1ST FLOOR, GANAPATI COMPLEX, MAIN ROAD, NEAR DHAYAL HOSPITAL, REENGUS, DISTT SIKAR, 332404 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "RUPBAS",
+    "slug": "rupbas",
+    "addresses": [
+      "CSS ,GROUND FLOOR, KATARA BHAWAN, RUPBAS BYPASS ROAD, NH 123, BEHIND KOTWALI, RUPBAS, DISTT BHARATPUR, 321404 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "GHATOL",
+    "slug": "ghatol",
+    "addresses": [
+      "CSS ,P NO. F29, FF, JIVAN JOTIY COMPLEX, OLD BUS STAND , OLD BUS STAND BANSWARA RAJASTHAN 327023"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "SANGANER",
+    "slug": "sanganer",
+    "addresses": [
+      "CSS ,1ST FLOOR, AUTO WORLD, PLOT NO. 5/B-1, PRATAP NAGAR, SANGANER, JAIPUR 302033 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "JAHAZPUR",
+    "slug": "jahazpur",
+    "addresses": [
+      "CSS ,GROUND FLOOR, SHOP NO. 7 & 8, BANGAR COMPLEX, DEVJI ROAD, JAHAZPUR, DISTT. BHILWARA 311201 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "SHAHPURA",
+    "slug": "shahpura",
+    "addresses": [
+      "CSS ,1ST FLOOR, MITTAL BHAWAN, AJITGARH ROAD , NEAR POST OFFICE , SHAHPURA, DISTT JAIPUR 303103 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "KELWARA",
+    "slug": "kelwara",
+    "addresses": [
+      "CSS ,GROUND FLOOR, NEAR KELWARA POLICE STATION, KOTA SHUBRI ROAD, KELWARA, TEHSIL SHAHBAD, DISTT BARAN 325316 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "SIKAR",
+    "slug": "sikar",
+    "addresses": [
+      "CSS ,1ST FLOOR, OFFICE NO.58A, SHEKHAWAT SPECIALITIES INDUSTRIES AREAJAIPUR ROAD, SIKAR 332001 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "NIMBAHERA",
+    "slug": "nimbahera",
+    "addresses": [
+      "CSS ,FIRST FLOOR, SHREE SETH SANWARIYA COLONY, BEHIND ESSAR PETROL PUMP, NIMBAHERA BEHIND ESSAR PETROL PUMP CHITTORGARH RAJASTHAN 312601"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "SRI GANGANAGAR",
+    "slug": "sri-ganganagar",
+    "addresses": [
+      "CSS ,148, G- BLOCK, 1ST FLOOR, ABOVE METRO SHOWROOM, BUILDING NEAR SUKHARIYA CIRCLE, SRI GANGANAGAR- 335001 RAJASTHAN. ABOVE METRO SHOWROOM SRI GANGANAGAR RAJASTHAN 335001"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "PRATAPGARH",
+    "slug": "pratapgarh",
+    "addresses": [
+      "CSS ,1ST FLOOR, CENTURY MALL, MAALI KHERANEEMUCH ROAD, PRATAPGARH 312605 HIGH SCHOOL ROAD, NEAR DARPAN TALKIES , PRATAPGARH, RAJASTHAN - 312605 PRATAPGARH RAJASTHAN 312605"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "SAGWARA",
+    "slug": "sagwara",
+    "addresses": [
+      "CSS ,1ST FLOOR, CITY CENTRE, OPP. NEW LOOK PUBLIC SCHOOL, NEAR NURSURY MODE, DUNGARPUR ROAD, SAGWARA 314025 CITY CENTER SAGWARA RAJASTHAN 314025"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "SIMALVADA",
+    "slug": "simalvada",
+    "addresses": [
+      "CSS ,SHOP NO 2, KESHAV COMPLEX, OPP VAGAD PETROL PUMP, PEETH ROAD, SIMALVADA , OPP VAGAD PETROL PUMP DUNGARPUR RAJASTHAN 314403"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "SUJANGARH",
+    "slug": "sujangarh",
+    "addresses": [
+      "CSS ,NEAR SARAWAGI PETROL PUMP, SALASAR ROAD, SUJANGARH, RAJASTHAN - 331507 SARAWAGI PETROL PUMP SUJANGARH RAJASTHAN 331507"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "TONK",
+    "slug": "tonk",
+    "addresses": [
+      "CSS ,IST FLOOR, INDRA COLONEY, NEAR G.P.O, S.M ROAD, TONK 304001 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "UDAIPUR",
+    "slug": "udaipur",
+    "addresses": [
+      "CSS ,29, GROUND FLOOR, MEERA BHAVAN, OPP. JADAV NERSERY, HIRAN MAGRI, SECTOR-08, UDAIPUR 313001 OPP. JHADHAV NURSURY UDAIPUR RAJASTHAN 313001"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "UDAIPUR RO",
+    "slug": "udaipur-ro",
+    "addresses": [
+      "CSS ,29, FIRST FLOOR, MEERA BHAVAN, OPP. JADAV NERSERY, HIRAN MAGRI, SECTOR-08, UDAIPUR 313001 OPP. JHADHAV NURSURY UDAIPUR RAJASTHAN 313001"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Rajasthan",
+    "branch": "VIDHIYADHAR NAGAR",
+    "slug": "vidhiyadhar-nagar",
+    "addresses": [
+      "CSS ,1ST FLOOR, OFFICE NO 111, CITY STAR BUILDING, CENTRAL SPINE, CINE STAR CINEMA HALL COMPLEX, VIDHYADHAR NAGAR, JAIPUR 302039 RAJASTHAN"
+    ],
+    "state_slug": "rajasthan"
+  },
+  {
+    "state": "Haryana",
+    "branch": "AMBALA",
+    "slug": "ambala",
+    "addresses": [
+      "CSS ,2ND FLOOR SUDERSHAN TOWERS AMBALA CANT AMBALA HARYANA 133001"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "BHIWANI",
+    "slug": "bhiwani",
+    "addresses": [
+      "CSS ,2ND FLOOR HANSI GATE BHIWANI BHIWANI HARYANA 127021"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "CHARKHI DADRI",
+    "slug": "charkhi-dadri",
+    "addresses": [
+      "CSS ,1ST FLOOR LOHARHU ROAD,CHARKHI DADRI OPP UDHAM SING JAIN HOSPITAL BHIWANI HARYANA 127306"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "FATEHBAD",
+    "slug": "fatehbad",
+    "addresses": [
+      "CSS ,GROUND FLOOR PLOT NO. 1 INDUSTRICAL AREA FATEHBAD BACK SIDE OF ANAJ MANDI FATEHABAD HARYANA 125050"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "GOHANA",
+    "slug": "gohana",
+    "addresses": [
+      "CSS ,GROUND FLOOR SHOP NO. 29 POONAM CINEMA GOHANA NEAR BUS STAND SONIPAT HARYANA 131304"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "HISAR (LOHARU)",
+    "slug": "hisar-loharu",
+    "addresses": [
+      "CSS ,1st Floor, Damkora House, Near Viveka nand School, Loharu, Dist Bhiwani, Haryana - 127021"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "HISSAR",
+    "slug": "hissar",
+    "addresses": [
+      "CSS ,1ST FLOOR SCF-2 RED SQUARE MARKET HISSAR HISAR HARYANA 125001"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "HISSAR CV",
+    "slug": "hissar-cv",
+    "addresses": [
+      "CSS ,1ST FLOOR SCO NO-42 SECTOR 13 HISSAR HARYANA 125001"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "JHAJJAR",
+    "slug": "jhajjar",
+    "addresses": [
+      "CSS ,GROUND FLOOR WARD NO-1 DADRI ROAD,JHAJJAR ROHTAK HARYANA 124103"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "JIND",
+    "slug": "jind",
+    "addresses": [
+      "CSS ,SCO-207 1ST FLOOR JIND DISTT. SHOPPING COMPLEX JIND HARYANA 126102"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "KAITHAL",
+    "slug": "kaithal",
+    "addresses": [
+      "CSS ,1ST FLOOR RAM SHEELA BUILDING DHAND ROAD,KAITHAL NEAR DR.CHATWAL HOSPITAL KAITHAL HARYANA 136027"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "KARNAL/KARNAL RO",
+    "slug": "karnal-karnal-ro",
+    "addresses": [
+      "CSS ,SCO 87 ,88 2ND FLOOR MAHILA ASHRAM CHOWK KARNAL BEHIND MAIN BUS STAND KARNAL HARYANA 132001"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "KHARKHODA",
+    "slug": "kharkhoda",
+    "addresses": [
+      "CSS ,Floor Ground, Shop No-66, Rohtak Road, New Anaj Mandi, Kharkhoda, Kharkhoda, Sonipat, Haryana-131402"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "KUND",
+    "slug": "kund",
+    "addresses": [
+      "CSS ,Upper Ground floor, Balaji Plaza, Khasra no 565,66, Main Road, Kund Barrier, Rewari, Haryana-123102"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "KURUKSHETRA",
+    "slug": "kurukshetra",
+    "addresses": [
+      "CSS ,SCO NO. 25 1ST FLOOR,SECTOR 17 KURUKSHETRA KURUKSHETRA HARYANA 136118"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "MAHENDERGARH",
+    "slug": "mahendergarh",
+    "addresses": [
+      "CSS ,1 FLOOR RAO TULA RAM CHOWK MAHENDERGARH MAHENDRAGARH HARYANA 123029"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "NARAINGARH",
+    "slug": "naraingarh",
+    "addresses": [
+      "CSS ,2ND FLOOR VASHISHT TOWER NAHAAR CHANDIGARH ROAD,NARYANGARH AMBALA HARYANA 134203"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "NARNAUL-HARIYANA",
+    "slug": "narnaul-hariyana",
+    "addresses": [
+      "CSS ,2ND FLOOR NARNAUL OPP. D.C. RESIDENCE MAHENDRAGARH HARYANA 123001"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "NORTH EAST DELHI (GANAUR)",
+    "slug": "north-east-delhi-ganaur",
+    "addresses": [
+      "CSS ,Floor Ground, Vasant Vihar EXTN, M C Road, GanaurGanaurGanaurSonipat, Haryana-131101"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "PANCHKULA",
+    "slug": "panchkula",
+    "addresses": [
+      "CSS ,SCF No. 48, 2nd Floor, Building Opp to Satluj Public School , Sector- 4 , Panchkula, Haryana - 134112"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "PANIPAT",
+    "slug": "panipat",
+    "addresses": [
+      "CSS ,1ST FLOOR SCF-47 SECTOR-11 PANIPAT NEAR PRIMA MALL HUDA PANIPAT HARYANA 132103"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "REWARI",
+    "slug": "rewari",
+    "addresses": [
+      "CSS ,2ND FLOOR SCO-3 REWARI BRASS MARKET REWARI HARYANA 123401"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "ROHTAK",
+    "slug": "rohtak",
+    "addresses": [
+      "CSS ,2ND FLOOR ROHTAK OPP MODEL SCHOOL ROHTAK HARYANA 124001"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "ROHTAK CV",
+    "slug": "rohtak-cv",
+    "addresses": [
+      "CSS ,GROUND FLOOR SHOP NO-33 ROHTAK ASHOK PLAZA ROHTAK HARYANA 124001"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "SIRSA",
+    "slug": "sirsa",
+    "addresses": [
+      "CSS ,1ST FLOOR OM BUILDING DABAWALI ROAD,LAL BATTI CHOWK,SIRSA SIRSA HARYANA 125055"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "SONIPAT",
+    "slug": "sonipat",
+    "addresses": [
+      "CSS ,1808/31 GROUND FLOOR SHASTRI COLONY,GOHANA ROAD BY PASS SONIPAT HARYANA-131001"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "TOSHAM",
+    "slug": "tosham",
+    "addresses": [
+      "CSS ,Floor Ground, Vikash Nagar Colony, Bhiwani Tosham Road, Near Petrol Pump, Tosham, Bhiwani, Haryana - 127021"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "YAMUNANAGAR",
+    "slug": "yamunanagar",
+    "addresses": [
+      "CSS ,SCO-102, 2ND FLOOR ,SECTOR 17 ,HUDA COMMERCIAL BELT JAGADHARI YAMUNA NAGAR HARYANA 135003"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "ABOHAR",
+    "slug": "abohar",
+    "addresses": [
+      "CSS ,1st Floor, Street No. 9, Hanumangarh Road, Near Natureway Complex, Abohar, Punjab-152116"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "AMRITSAR - CDG",
+    "slug": "amritsar-cdg",
+    "addresses": [
+      "CSS ,SCO-20, 2nd Floor, Block B, Distt Shopping Complex, Ranjit Avenue, Amritsar, Punjab - 143008"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "BARNALA",
+    "slug": "barnala",
+    "addresses": [
+      "CSS ,1st floor, PNB Building, Near Over Briji, College Road, Barnala, Punjab - 148105"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "BHATINDA - CDG",
+    "slug": "bhatinda-cdg",
+    "addresses": [
+      "CSS ,Office No 128 & 129, 1st Floor, Opp Three Theaters, GT Road, Bhatinda, Punjab -151001"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "FARIDKOT",
+    "slug": "faridkot",
+    "addresses": [
+      "CSS ,1st floor, Building near bus stand, Circular road, Dist Ferozepur, Faridkot, Punjab-151203"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "FAZILKA",
+    "slug": "fazilka",
+    "addresses": [
+      "CSS ,Opp Grain Market, Abohar Road, Fazilka, Punjab - 152123"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "FEROZEPUR-PUNJAB",
+    "slug": "ferozepur-punjab",
+    "addresses": [
+      "CSS ,1st Floor, Golden Tower, The Mall - Ferozepur, Punjab - 152002"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "GURDASPUR",
+    "slug": "gurdaspur",
+    "addresses": [
+      "CSS ,Ground Floor, Riar Building, Batala Road, Opp. Income Tax Office, Gurdaspur, 143521"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "GURUHARSAI",
+    "slug": "guruharsai",
+    "addresses": [
+      "CSS ,Town Guruharsai, Muktsar Road, Near Panje Ke Aara, Guruharsai, Dist Ferojpur, Punjab-152022"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "HOSHIARPUR - CDG",
+    "slug": "hoshiarpur-cdg",
+    "addresses": [
+      "CSS ,2nd Floor,Krishna Towers,Opp Govt College,Sutehri Road, Hoshiarpur, Punjab - 146001"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "JALANDHAR - CDG",
+    "slug": "jalandhar-cdg",
+    "addresses": [
+      "CSS ,SCO -8 & 9, Crystal Plaza, Chotti Baradari - II, Jalandhar, Punjab - 144001"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "KAPURTHALA",
+    "slug": "kapurthala",
+    "addresses": [
+      "CSS ,First Floor Jp Tower Nh-703 A, Kapurthala, Punjab-144601"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "KHANNA",
+    "slug": "khanna",
+    "addresses": [
+      "CSS ,2nd Floor , Surya Tower, G.T. Road, NH-1, Khanna, Distt-Ludhiana, Punjab-141401"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "LUDHIANA - CDG",
+    "slug": "ludhiana-cdg",
+    "addresses": [
+      "CSS ,Sahni Plaza, B-21/14628, Gandhi Nagar, Dholewal, G T Road, Ludhiana, Punjab-141002"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "LUDHIANA TWO",
+    "slug": "ludhiana-two",
+    "addresses": [
+      "CSS ,1ST FLOOR, SCO 1 F, B M TOWER, BRS NAGAR - Ludhiana, Punjab - 141002"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "MALOUT",
+    "slug": "malout",
+    "addresses": [
+      "CSS ,First floor, SCO 132, Building opp to LIC office, New Grain Market, Malout, Punjab - 152107"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "MANSA",
+    "slug": "mansa",
+    "addresses": [
+      "CSS ,SHIMLA COMPLEX, WATER WORKS ROAD - Mansa, Punjab - 151505"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "MOGA - CHANDIGARH",
+    "slug": "moga-chandigarh",
+    "addresses": [
+      "CSS ,SCF-10-11 Improvement Trust Area, 1st Floor,G.T ROAD - Moga, Punjab - 142001"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "MOHALI",
+    "slug": "mohali",
+    "addresses": [
+      "CSS ,1st Floor, SCO 24, Sec-66-A, New Airport Road, Mohali, Punjab-160062"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "MUKTSAR",
+    "slug": "muktsar",
+    "addresses": [
+      "CSS ,1st Floor, Bhai Complex, Malout Road - Mukstar, Punjab - 152026"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "NAWANSHAHR",
+    "slug": "nawanshahr",
+    "addresses": [
+      "CSS ,2nd floor, Gill Plaza, Banga Road, Nawashaher, Punjab - 144526"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "PATHANKOT",
+    "slug": "pathankot",
+    "addresses": [
+      "CSS ,2nd Floor, MK - III Complex,Opp. Suksadan Hospital,DALOUSIE ROAD, Pathankot, Punjab - 145001"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "PATIALA - CDG",
+    "slug": "patiala-cdg",
+    "addresses": [
+      "CSS ,SCO-6, CHOTTI BARADARI,THE MALL, PATIALA, Punjab - 147001"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "PATRAN",
+    "slug": "patran",
+    "addresses": [
+      "CSS ,Garg Plaza, Jakhal Road, Patran, Dist Patiala, Punjab - 147105"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "RAJPURA",
+    "slug": "rajpura",
+    "addresses": [
+      "CSS ,2nd floor, Dalima Vihar, Near Honda Showroom, Caliber Market, Rajpura, Punjab - 140401"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "RAMPURA PHUL",
+    "slug": "rampura-phul",
+    "addresses": [
+      "CSS ,St No.- 5, Ward No.-8, Opp Dashmesh Tracktor Union, Kalgidhar colony, Barnala Road, Rampura Phul, Punjab-151103"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "ROPAR",
+    "slug": "ropar",
+    "addresses": [
+      "CSS ,2ND FLOOR, SCO-35, BEANT SINGH AMAR NAGAR, BELA ROAD, Ropar, Punjab - 140001"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "SANGRUR",
+    "slug": "sangrur",
+    "addresses": [
+      "CSS ,1st Floor, Housing Colony Road - Sangrur, Punjab - 148001"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "TALWANDI SABO",
+    "slug": "talwandi-sabo",
+    "addresses": [
+      "CSS ,Rowdy Road, Talwandi Sabo, Bathinda, Punjab - 151302"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "TARN TARAN",
+    "slug": "tarn-taran",
+    "addresses": [
+      "CSS ,1st Floor, B-2/228,229, Mohalla-Rodhupura, Amritsar Road, Tarn Taran,Punjab-143401"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "ZIRA",
+    "slug": "zira",
+    "addresses": [
+      "CSS ,Makhu Road, Near Malwa Petrol Pump, Zira, Dist Ferozpur, Punjab-142047"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Haryana",
+    "branch": "ZIRAKPUR",
+    "slug": "zirakpur",
+    "addresses": [
+      "CSS ,CHOPRA TOWER,AMBALA-CHANDIGARH ROAD - Derabassi, Punjab - 140507"
+    ],
+    "state_slug": "haryana"
+  },
+  {
+    "state": "Punjab",
+    "branch": "ABOHAR",
+    "slug": "abohar",
+    "addresses": [
+      "CSS ,1st Floor, Street No. 9, Hanumangarh Road, Near Natureway Complex, Abohar, Punjab-152116"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "AMRITSAR - CDG",
+    "slug": "amritsar-cdg",
+    "addresses": [
+      "CSS ,SCO-20, 2nd Floor, Block B, Distt Shopping Complex, Ranjit Avenue, Amritsar, Punjab - 143008"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "BARNALA",
+    "slug": "barnala",
+    "addresses": [
+      "CSS ,1st floor, PNB Building, Near Over Briji, College Road, Barnala, Punjab - 148105"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "BHATINDA - CDG",
+    "slug": "bhatinda-cdg",
+    "addresses": [
+      "CSS ,Office No 128 & 129, 1st Floor, Opp Three Theaters, GT Road, Bhatinda, Punjab -151001"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "FARIDKOT",
+    "slug": "faridkot",
+    "addresses": [
+      "CSS ,1st floor, Building near bus stand, Circular road, Dist Ferozepur, Faridkot, Punjab-151203"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "FAZILKA",
+    "slug": "fazilka",
+    "addresses": [
+      "CSS ,Opp Grain Market, Abohar Road, Fazilka, Punjab - 152123"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "FEROZEPUR-PUNJAB",
+    "slug": "ferozepur-punjab",
+    "addresses": [
+      "CSS ,1st Floor, Golden Tower, The Mall - Ferozepur, Punjab - 152002"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "GURDASPUR",
+    "slug": "gurdaspur",
+    "addresses": [
+      "CSS ,Ground Floor, Riar Building, Batala Road, Opp. Income Tax Office, Gurdaspur, 143521"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "GURUHARSAI",
+    "slug": "guruharsai",
+    "addresses": [
+      "CSS ,Town Guruharsai, Muktsar Road, Near Panje Ke Aara, Guruharsai, Dist Ferojpur, Punjab-152022"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "HOSHIARPUR - CDG",
+    "slug": "hoshiarpur-cdg",
+    "addresses": [
+      "CSS ,2nd Floor,Krishna Towers,Opp Govt College,Sutehri Road, Hoshiarpur, Punjab - 146001"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "JALANDHAR - CDG",
+    "slug": "jalandhar-cdg",
+    "addresses": [
+      "CSS ,SCO -8 & 9, Crystal Plaza, Chotti Baradari - II, Jalandhar, Punjab - 144001"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "KAPURTHALA",
+    "slug": "kapurthala",
+    "addresses": [
+      "CSS ,First Floor Jp Tower Nh-703 A, Kapurthala, Punjab-144601"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "KHANNA",
+    "slug": "khanna",
+    "addresses": [
+      "CSS ,2nd Floor , Surya Tower, G.T. Road, NH-1, Khanna, Distt-Ludhiana, Punjab-141401"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "LUDHIANA - CDG",
+    "slug": "ludhiana-cdg",
+    "addresses": [
+      "CSS ,Sahni Plaza, B-21/14628, Gandhi Nagar, Dholewal, G T Road, Ludhiana, Punjab-141002"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "LUDHIANA TWO",
+    "slug": "ludhiana-two",
+    "addresses": [
+      "CSS ,1ST FLOOR, SCO 1 F, B M TOWER, BRS NAGAR - Ludhiana, Punjab - 141002"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "MALOUT",
+    "slug": "malout",
+    "addresses": [
+      "CSS ,First floor, SCO 132, Building opp to LIC office, New Grain Market, Malout, Punjab - 152107"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "MANSA",
+    "slug": "mansa",
+    "addresses": [
+      "CSS ,SHIMLA COMPLEX, WATER WORKS ROAD - Mansa, Punjab - 151505"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "MOGA - CHANDIGARH",
+    "slug": "moga-chandigarh",
+    "addresses": [
+      "CSS ,SCF-10-11 Improvement Trust Area, 1st Floor,G.T ROAD - Moga, Punjab - 142001"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "MOHALI",
+    "slug": "mohali",
+    "addresses": [
+      "CSS ,1st Floor, SCO 24, Sec-66-A, New Airport Road, Mohali, Punjab-160062"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "MUKTSAR",
+    "slug": "muktsar",
+    "addresses": [
+      "CSS ,1st Floor, Bhai Complex, Malout Road - Mukstar, Punjab - 152026"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "NAWANSHAHR",
+    "slug": "nawanshahr",
+    "addresses": [
+      "CSS ,2nd floor, Gill Plaza, Banga Road, Nawashaher, Punjab - 144526"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "PATHANKOT",
+    "slug": "pathankot",
+    "addresses": [
+      "CSS ,2nd Floor, MK - III Complex,Opp. Suksadan Hospital,DALOUSIE ROAD, Pathankot, Punjab - 145001"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "PATIALA - CDG",
+    "slug": "patiala-cdg",
+    "addresses": [
+      "CSS ,SCO-6, CHOTTI BARADARI,THE MALL, PATIALA, Punjab - 147001"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "PATRAN",
+    "slug": "patran",
+    "addresses": [
+      "CSS ,Garg Plaza, Jakhal Road, Patran, Dist Patiala, Punjab - 147105"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "RAJPURA",
+    "slug": "rajpura",
+    "addresses": [
+      "CSS ,2nd floor, Dalima Vihar, Near Honda Showroom, Caliber Market, Rajpura, Punjab - 140401"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "RAMPURA PHUL",
+    "slug": "rampura-phul",
+    "addresses": [
+      "CSS ,St No.- 5, Ward No.-8, Opp Dashmesh Tracktor Union, Kalgidhar colony, Barnala Road, Rampura Phul, Punjab-151103"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "ROPAR",
+    "slug": "ropar",
+    "addresses": [
+      "CSS ,2ND FLOOR, SCO-35, BEANT SINGH AMAR NAGAR, BELA ROAD, Ropar, Punjab - 140001"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "SANGRUR",
+    "slug": "sangrur",
+    "addresses": [
+      "CSS ,1st Floor, Housing Colony Road - Sangrur, Punjab - 148001"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "TALWANDI SABO",
+    "slug": "talwandi-sabo",
+    "addresses": [
+      "CSS ,Rowdy Road, Talwandi Sabo, Bathinda, Punjab - 151302"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "TARN TARAN",
+    "slug": "tarn-taran",
+    "addresses": [
+      "CSS ,1st Floor, B-2/228,229, Mohalla-Rodhupura, Amritsar Road, Tarn Taran,Punjab-143401"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "ZIRA",
+    "slug": "zira",
+    "addresses": [
+      "CSS ,Makhu Road, Near Malwa Petrol Pump, Zira, Dist Ferozpur, Punjab-142047"
+    ],
+    "state_slug": "punjab"
+  },
+  {
+    "state": "Punjab",
+    "branch": "ZIRAKPUR",
+    "slug": "zirakpur",
+    "addresses": [
+      "CSS ,CHOPRA TOWER,AMBALA-CHANDIGARH ROAD - Derabassi, Punjab - 140507"
+    ],
+    "state_slug": "punjab"
+  }
+]

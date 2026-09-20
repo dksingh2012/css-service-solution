@@ -27,3 +27,7 @@ Set these as Cloudflare Pages production environment variables/secrets:
 IMPORTANT:
 Do not publish API keys/secrets in GitHub.
 If the Resend sender domain has not been verified yet, configure that before testing live email delivery.
+
+
+ENQUIRY FORM
+The enquiry form uses the same FormSubmit AJAX method as the existing PestControlNearYou.in project. Recipient: css.serviceinfo@gmail.com. No Cloudflare secret or paid email API is required for this form.

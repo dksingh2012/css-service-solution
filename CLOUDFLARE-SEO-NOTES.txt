@@ -1,0 +1,6 @@
+SEO deployment notes
+
+Primary URL: https://completeservicesolution.online/
+WWW redirect: https://www.completeservicesolution.online/* -> https://completeservicesolution.online/${1} using Cloudflare 301 redirect with query strings preserved.
+Sitemap: https://completeservicesolution.online/sitemap.xml
+The www redirect is a hostname-level Cloudflare rule, not application code.

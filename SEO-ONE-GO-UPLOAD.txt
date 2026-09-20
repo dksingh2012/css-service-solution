@@ -1,0 +1,24 @@
+CSS Service Solution — SEO one-go upload
+
+Upload/replace the source contents at the ROOT of GitHub repository:
+  dksingh2012/css-service-solution
+
+Upload these root items:
+  data/
+  functions/
+  public/
+  scripts/
+  .gitignore
+  CLOUDFLARE-SETUP.txt
+  CLOUDFLARE-SEO-NOTES.txt
+  OFF-PAGE-SEO-PLAN.md
+  README.md
+  package.json
+
+Do NOT upload:
+  dist/
+  the ZIP file itself
+
+Commit to main. Cloudflare Pages automatic deployment should rebuild the site.
+
+This build preserves the 355 location pages, 10 service pages, real photos, pink enquiry form, sitemap, robots.txt and /lander redirect.

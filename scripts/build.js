@@ -91,7 +91,7 @@ function breadcrumbSchema(items){
 }
 function schemaScript(title, canonical, description, breadcrumbs=[], extras=[]){
   const graph=[
-    {"@type":"Organization","@id":site+'#organization',"name":company,"url":site,"logo":{"@type":"ImageObject","url":site+'/logo.webp'},"telephone":"+91-"+phone,"email":email,"areaServed":states.map(name=>({"@type":"AdministrativeArea","name":name})),"sameAs":[]},
+    {"@type":"Organization","@id":site+'#organization',"name":company,"url":site,"logo":{"@type":"ImageObject","url":site+'/logo.webp'},"telephone":"+91-"+phone,"email":email,"areaServed":states.map(name=>({"@type":"AdministrativeArea","name":name})),"sameAs":["https://www.facebook.com/CSSSERVICESOLUTION","https://www.youtube.com/@cssservicesolution5742","https://www.instagram.com/cssservicesolution/","https://www.linkedin.com/in/sanket-singh-331943439/","https://x.com/ServiceCss"]},
     {"@type":"WebSite","@id":site+'#website',"url":site,"name":company,"publisher":{"@id":site+'#organization'}},
     {"@type":"WebPage","@id":canonical+'#webpage',"url":canonical,"name":title,"description":description,"isPartOf":{"@id":site+'#website'}}
   ];

@@ -1,6 +1,10 @@
 # CSS Service Solution — SEO one-go build
 
-Static SEO lead-generation website for https://completeservicesolution.online/
+Static SEO lead-generation website for Complete Service Solution.
+
+**Official website:** https://completeservicesolution.online/
+
+**Business profile:** https://www.google.com/maps/place/CSS+Service+Solution/
 
 ## Build
 ```bash

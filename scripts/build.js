@@ -9,6 +9,14 @@ const phone = '9654357541';
 const email = 'css.serviceinfo@gmail.com';
 const wa = '919654357541';
 const company = 'Complete Service Solution';
+const serviceFocus = {
+  'Termite Control': 'Termite inspections and treatment planning for active infestation, soil contact, entry points and vulnerable areas around a property.',
+  'Bed Bug Control': 'Bed bug treatment enquiries for bedrooms, furniture and other affected areas, with attention to preparation and follow-up requirements.',
+  'Cockroach Control': 'Cockroach control for kitchens, food-service areas, bathrooms, storage spaces and other locations where sanitation and entry points matter.',
+  'Mosquito Control': 'Mosquito-control enquiries focused on breeding sources, resting areas and practical measures for reducing mosquito activity around properties.',
+  'Rodent Control': 'Rodent-control enquiries covering signs of activity, entry points, food-storage areas and measures that help reduce access and recurrence.',
+  'Fumigation': 'Fumigation enquiries for situations where a specialist treatment may be appropriate, with site requirements, safety measures and availability confirmed before booking.'
+};
 const states = ['Delhi','Uttar Pradesh','Haryana','Rajasthan','Punjab'];
 const stateSlug = {'Delhi':'delhi','Uttar Pradesh':'uttar-pradesh','Haryana':'haryana','Rajasthan':'rajasthan','Punjab':'punjab'};
 const stateUrl = st => st==='Delhi' ? '/locations/delhi/' : '/'+stateSlug[st]+'/';
@@ -197,7 +205,7 @@ write('services/index.html',layout('Pest Control Services | Complete Service Sol
 for(const s of services){
   const canonical=`${site}/services/${s.slug}/`;
   const serviceSchema={"@type":"Service","name":s.name,"serviceType":s.name,"description":s.desc,"provider":{"@id":site+'#organization'},"areaServed":states.map(name=>({"@type":"AdministrativeArea","name":name})),"sameAs":[],"url":canonical};
-  write(`services/${s.slug}/index.html`,layout(`${s.name} | Complete Service Solution`,`${s.desc} Contact Complete Service Solution at ${phone}.`,canonical,`<section class="section"><div class="wrap"><div class="crumb"><a href="/">Home</a> / <a href="/services/">Services</a> / ${esc(s.name)}</div><h1>${esc(s.name)}</h1><p>${esc(s.desc)}</p><h2>What this service is for</h2><p>Complete Service Solution can discuss the appropriate treatment approach based on the pest issue, property type, site conditions and service location. Treatment methods and service scope should be confirmed during enquiry.</p><h2>Find service coverage</h2><div class="grid">${locations.slice(0,60).map(l=>`<article class="card"><div class="card-title"><a href="/${l.state_slug}/${l.slug}/">${esc(l.branch)}</a></div><p>${esc(l.state)}</p></article>`).join('')}</div><div class="notice"><strong>Need a quotation?</strong><p>Call ${phone} or WhatsApp us with your city and property type.</p><div class="actions"><a class="btn" href="tel:${phone}">Call Now</a><a class="btn secondary" href="https://wa.me/${wa}">WhatsApp</a></div></div></div></section>`,[{name:'Home',url:site+'/'},{name:'Services',url:site+'/services/'},{name:s.name,url:canonical}],[serviceSchema]));
+  write(`services/${s.slug}/index.html`,layout(`${s.name} | Complete Service Solution`,`${s.desc} Contact Complete Service Solution at ${phone}.`,canonical,`<section class="section"><div class="wrap"><div class="crumb"><a href="/">Home</a> / <a href="/services/">Services</a> / ${esc(s.name)}</div><h1>${esc(s.name)}</h1><p>${esc(s.desc)}</p><h2>What this service is for</h2><p>${esc(serviceFocus[s.name] || s.desc)}</p><p>Complete Service Solution can discuss the appropriate treatment approach based on the pest issue, property type, site conditions and service location. Treatment methods, preparation requirements and service scope should be confirmed during enquiry.</p><h2>Before requesting service</h2><p>Share your city, property type, visible pest signs and any relevant site details. This helps us understand the enquiry and discuss the appropriate service option before a quotation or appointment is confirmed.</p><h2>Find service coverage</h2><div class="grid">${locations.slice(0,60).map(l=>`<article class="card"><div class="card-title"><a href="/${l.state_slug}/${l.slug}/">${esc(l.branch)}</a></div><p>${esc(l.state)}</p></article>`).join('')}</div><div class="notice"><strong>Need a quotation?</strong><p>Call ${phone} or WhatsApp us with your city and property type.</p><div class="actions"><a class="btn" href="tel:${phone}">Call Now</a><a class="btn secondary" href="https://wa.me/${wa}">WhatsApp</a></div></div></div></section>`,[{name:'Home',url:site+'/'},{name:'Services',url:site+'/services/'},{name:s.name,url:canonical}],[serviceSchema]));
 }
 // states and locations
 for(const st of states){
